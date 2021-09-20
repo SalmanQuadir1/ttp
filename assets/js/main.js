@@ -128,8 +128,8 @@
     $(".mobile-nav, .mobile-nav-toggle").hide();
   }
 
-  // Navigation active state on scroll
-  var nav_sections = $('section');
+  // Navigation active state on scroll ////////// COMMITED BY Shah Shahid ASTE
+  /* var nav_sections = $('section');
   var main_nav = $('.main-nav, .mobile-nav');
   var main_nav_height = $('#header').outerHeight();
 
@@ -150,7 +150,7 @@
       }
 
     });
-  });
+  }); */
 
   // jQuery counterUp (used in Whu Us section)
   $('[data-toggle="counter-up"]').counterUp({

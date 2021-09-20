@@ -6,7 +6,7 @@
     </div>
   </footer>
   <!-- End  Footer -->
-         
+     <input type="hidden" value="<?php echo $activePage ?>" id="activePage">      
 <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 
  
@@ -27,6 +27,22 @@
 
 <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script>
+   /*  $(document).ready(function() {
+      
+      console.log("Acive Page "+ activePage);
+    }); */
+    $(document).ready(function(){
+      $('.main-nav .m1').each(function(){ 
+          var label = $(this).attr("label");
+          var activePage = $("#activePage").val();
+          console.log(label);
+          if(label == activePage) {
+            $(this).addClass("active");
+          }
+      });
+    });
+  </script>
 </body>
 
 </html>

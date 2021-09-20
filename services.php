@@ -3,6 +3,7 @@
 	
 <?php
 require_once('header.php');
+$activePage = "Services";
 ?>
 
 <!-- Body Section -->

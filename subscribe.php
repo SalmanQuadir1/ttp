@@ -1,20 +1,8 @@
 <?php 
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "jkts";
-
-// Create connection
-$conn = new mysqli($servername, $username, $password, $dbname);
-// Check connection
-if ($conn->connect_error) {
-  die("Connection failed: " . $conn->connect_error);
-}
-
 if(isset($_POST['email'])){
 
-    $to = "showket.jktechnosoft@gmail.com"; // this is your Email address
+    $to = "shahid.jktechnosoft@gmail.com"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
 
     $sql = "INSERT INTO subscribers (email) VALUES ('$from')";

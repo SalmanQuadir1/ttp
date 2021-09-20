@@ -3,6 +3,7 @@
 	
 <?php
 require_once('header.php');
+$activePage = "Contact";
 ?>
 
 <!-- Body Section -->

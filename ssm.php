@@ -2,7 +2,8 @@
 	<div class="container-fluid pt-5">
 	
 <?php
-require_once('header.php');
+  require_once('header.php');
+  $activePage = "Services";
 ?>
 
 <!-- Body Section -->

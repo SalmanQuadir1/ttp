@@ -10,7 +10,7 @@
   <meta content="The Testing Pro, Covid-19 test, coronavirus, corona tests, easy testing" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/favicon.ico" rel="icon">
   <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
@@ -42,15 +42,15 @@
 
       <nav class="main-nav d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.php">Home</a></li>
-          <li class="drop-down"><a href="">Services</a>
+          <li class="m1" label="Home"><a href="index.php">Home</a></li>
+          <li class="drop-down m1" label="Services"><a href="">Services</a>
             <ul>
               <li><a href="services.php">Our Services</a></li>
               <li><a href="ssm.php">Self Swab Model</a></li>              
             </ul>
           </li>  
-          <li><a href="blog-home.php">Newsroom</a></li> 
-          <li class="drop-down"><a href="">Contact</a>
+          <li class="m1" label="Blog"><a href="blog-home.php">Newsroom</a></li> 
+          <li class="drop-down m1" label="Contact"><a href="">Contact</a>
             <ul>
              <li><a href="contact.php">Contact Us</a></li>
               <li><a href="terms-and-conditions.php">Terms and Conditions</a></li>

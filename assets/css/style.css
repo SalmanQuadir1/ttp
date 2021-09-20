@@ -20,7 +20,7 @@ body {
   /* background: #f5f8fd; */
   color: #444;
   font-family: Montserrat, sans-serif;
-  background: #f5f8fd url("../img/intro-bg-main.jpg") center top no-repeat;
+  background: #f5f8fd url("../img/intro-bg-main.png") center top no-repeat;
   background-size: cover;
  
 }
@@ -282,7 +282,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-nav .drop-down ul {
-  display: block;
+  display: none;
   position: absolute;
   left: 15px;
   top: calc(100% - 30px);
@@ -297,8 +297,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .main-nav .drop-down:hover > ul {
   opacity: 1;
-  top: 100%;
+  top: 98%;
   visibility: visible;
+  display: block;
 }
 
 .main-nav .drop-down li {
