@@ -2,6 +2,7 @@
 	<div class="container-fluid pt-5">
 	
 <?php
+session_start();
 require_once('header.php');
 require_once('connection.php');
 $activePage = "Blog";
@@ -15,6 +16,14 @@ $activePage = "Blog";
        <div class="blog-page-header">
            <h2 class="display-5">BLOG</h2>  
        </div>
+       <?php
+        if(isset($_SESSION['msg'])) 
+        { 
+            echo "<div class='alert alert-success'><strong>".$_SESSION['msg']."</strong> !";
+            echo "<button class='close' data-dismiss='alert'>&times;</button></div>";
+            unset($_SESSION['msg']);
+        }
+        ?> 
    </div>
   </div>
     <div class="row blog-body">
@@ -25,15 +34,18 @@ $activePage = "Blog";
             if ($result->num_rows > 0) {
             // output data of each row
                 while($row = $result->fetch_assoc()) {
-                    ?>   
+        ?>   
                     <div class="col-sm-12 col-md-4 col-lg-3">
                             <div class="card blog-card">
                                 <div class="card-body">
                                     <h6 class="blog-title"><?php echo $row['title'] ?></h6>
                                     <div class="card-text">
-                                            <?php echo substr(strip_tags($row['content']),0,351) ?>...
+                                            <?php 
+                                                $data = strip_tags($row["content"]);
+                                            ?>
+                                            <?php echo substr($data,0,351) ?>...
                                             <br>
-                                            <a href="blog-detail.php?id=<?php echo $row['id'] ?>" class="btn btn-sm btn-outline-dark float-right">Read More &raquo;</a>
+                                            <a href="blog-detail.php?id=<?php echo $row['id']; ?>" class="btn btn-sm btn-outline-dark float-right">Read More &raquo;</a>
                                     </div>
                                     
                                 </div>

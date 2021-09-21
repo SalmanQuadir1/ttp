@@ -1936,3 +1936,6 @@ section {
     text-transform: uppercase;
     margin-bottom: 10px;
 }
+.ck-editor__editable {
+  min-height: 200px;
+}

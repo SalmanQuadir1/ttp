@@ -10,7 +10,7 @@ $activePage = "Blog";
 <!-- Body Section -->
     <section id="about" class="about" >
 
-      <div class="container" data-aos="fade-up">
+      <div class="container pl-sm-0 pr-sm-0" data-aos="fade-up">
         <div class="row">
 
           <div class="col-lg-12 col-md-12" >

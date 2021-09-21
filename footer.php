@@ -23,6 +23,7 @@
   <script src="assets/vendor/owl-carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>  
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script> -->
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
@@ -42,12 +43,12 @@
           $('.main-nav .m1').each(function(){ 
               var label = $(this).attr("label");
               var activePage = $("#activePage").val();
-              console.log(label);
               if(label == activePage) {
                 $(this).addClass("active");
               }
           });
         });
+    
   </script>
 </body>
 
