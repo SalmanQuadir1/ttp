@@ -36,7 +36,7 @@
                 while($row = $result->fetch_assoc()) {
         ?>   
                     <div class="col-sm-12 col-md-4 col-lg-3">
-                            <div class="card blog-card">
+                            <div class="card blog-card" data-aos="flip-left">
                                 <div class="card-body">
                                     <h6 class="blog-title"><?php echo $row['title'] ?></h6>
                                     <div class="card-text">

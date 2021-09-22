@@ -12,12 +12,12 @@
 
         <div class="container-fluid" data-aos="fade-down">
         <div class="row feature-item mt-5 pt-5">
-          <div class="col-lg-6 wow fadeInUp order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+          <div class="col-lg-6 wow fadeInUp order-1 order-lg-2" data-aos="fade-left">
             <img src="assets/img/coronavirus-testing.jpg" class="img-fluid mb-2" alt="">
             
           </div>
 
-          <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-right" data-aos-delay="150">
+          <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-right">
           <h3 style="color:#1bb1dc;">SELF SWAB MODEL (SSM)</h3>      
         	<h4>About Self Swab Model</h4>         
             <p>
