@@ -1,12 +1,12 @@
+<?php
+    require_once('header.php');
+    require_once('connection.php');
+    $activePage = "Blog";
+?>
+
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
 	
-<?php
-session_start();
-require_once('header.php');
-require_once('connection.php');
-$activePage = "Blog";
-?>
 
 <!-- Body Section -->
 <main id="main">

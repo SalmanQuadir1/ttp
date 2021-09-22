@@ -1,14 +1,16 @@
-<section id="main-section" class="clearfix">
-	<div class="container-fluid pt-5">
-	
 <?php
     require_once('header.php');
     require_once('connection.php');
     $activePage = "Blog"; 
-        if(isset($_GET['id'])) {
-            $blogId = $_GET['id'];
-        }
+    if(isset($_GET['id'])) {
+        $blogId = $_GET['id'];
+    }
+    if(isset($_SESSION['user'])) {
 ?>
+
+<section id="main-section" class="clearfix">
+	<div class="container-fluid pt-5">
+	
 
 <!-- Body Section -->
 
@@ -135,4 +137,7 @@
 </main><!-- End #main -->
 <?php
 require_once('footer.php');
+} else {
+    header('Location: login.php');
+}
 ?>

@@ -1939,3 +1939,19 @@ section {
 .ck-editor__editable {
   min-height: 200px;
 }
+
+.card-chart {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    box-shadow: 0 10px 29px 0 rgb(68 88 144 / 10%);
+    transition: all 0.3s ease-in-out;    
+    border-radius: 10px;
+    padding: 10px;
+}

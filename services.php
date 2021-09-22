@@ -1,10 +1,11 @@
+
+<?php
+  require_once('header.php');
+  $activePage = "Services";
+?>
+
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
-	
-<?php
-require_once('header.php');
-$activePage = "Services";
-?>
 
 <!-- Body Section -->
 

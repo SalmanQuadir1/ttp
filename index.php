@@ -1,10 +1,11 @@
-<section id="main-section" class="clearfix">
-	<div class="container-fluid pt-5">
-	
 <?php
   require_once('header.php');
   $activePage = "Home";
 ?>
+
+<section id="main-section" class="clearfix">
+	<div class="container-fluid pt-5">
+	
 
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="clearfix mt-sm-0">

@@ -1,11 +1,13 @@
-<section id="main-section" class="clearfix">
-<div class="container-fluid pt-5">
-	
 <?php
     require_once('header.php');
     require_once('connection.php');
     $activePage = "Blog";
+    if(isset($_SESSION['user'])) {
 ?>
+
+<section id="main-section" class="clearfix">
+<div class="container-fluid pt-5">
+	
 
 <!-- Body Section -->
 <script src="assets/js/ckeditor.js"></script>
@@ -13,7 +15,7 @@
 <div class="container mt-4">
       <div class="col-sm-12">                    
          
-         <h3>Add News</h3>
+         <h3>Add News</h3> User: <?php echo $_SESSION['user']; ?>
                   <div class='alert alert-success d-none del-msg'><strong>Record Deleted Successfully!</strong>
                     <button class='close' data-dismiss='alert'>&times;</button>
                   </div>
@@ -210,7 +212,10 @@ $(document).ready(function() {
 </div>
 </section> 
 </main><!-- End #main -->
-<?php
+<?php 
+  } else {
+    header('Location: login.php');
+  }
 require_once('footer.php');
 
 function url(){

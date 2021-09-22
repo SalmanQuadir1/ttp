@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -61,6 +62,10 @@
             </ul>
           </li>  
           <!-- <li><a href="/login">Login</a></li>  -->
+          <?php if(isset($_SESSION['user'])) { ?>
+            <li><a href="add-blog.php">Add Blog</a></li>
+            <li><a href="login.php?logout=true">Logout</a></li>
+          <?php } ?>
         </ul>
       </nav><!-- .main-nav-->
 
