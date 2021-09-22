@@ -88,7 +88,6 @@
 
                 <div class="text-center"><button type="submit" title="Send Message" name="submit" value="submit">Send Message</button></div>
               </form>
-              </form>
 
             </div>
 

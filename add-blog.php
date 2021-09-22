@@ -212,10 +212,7 @@ $(document).ready(function() {
 </div>
 </section> 
 </main><!-- End #main -->
-<?php 
-  } else {
-    header('Location: login.php');
-  }
+<?php  
 require_once('footer.php');
 
 function url(){
@@ -235,4 +232,8 @@ function url(){
       $_SERVER['REQUEST_URI']
     );
   } */
+
+} else {
+  header('Location: login.php');
+}
 ?>
