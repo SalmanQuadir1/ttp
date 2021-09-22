@@ -17,7 +17,7 @@
 	          capacities, who were all part of the testing operations in Singapore since the pandemic started. With in-depth knowledge and 
 	          understanding of the systems, processes and requirements, we provide an extensive range of <span class="font-weight-bold"> Covid-19 Testing Management and 
 	          Administration</span> for Companies and Organisations in Singapore. Our services will help relieve time and efforts which can be 
-	          better used for other more important and essential business matters. <a href="/contact#contact_us">CONTACT US NOW </a> to find out how we can help simplify 
+	          better used for other more important and essential business matters. <a href="contact.php">CONTACT US NOW </a> to find out how we can help simplify 
 	          testing for you.
 
           </p>
