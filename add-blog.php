@@ -12,10 +12,10 @@
 <!-- Body Section -->
 <script src="assets/js/ckeditor.js"></script>
 
-<div class="container mt-4">
+<div class="container mt-5">
       <div class="col-sm-12">                    
          
-         <h3>Add News</h3> User: <?php echo $_SESSION['user']; ?>
+         <h3>Add News</h3>
                   <div class='alert alert-success d-none del-msg'><strong>Record Deleted Successfully!</strong>
                     <button class='close' data-dismiss='alert'>&times;</button>
                   </div>
@@ -94,7 +94,7 @@
                         if ($result->num_rows > 0) {
                         // output data of each row
                             $idx = 1;
-                            while($row = $result->fetch_assoc()) {
+                            while($row = $result->fetch_assoc()) { 
                     ?> 
                           <tr>
                             <td><?php echo $idx ?></td>
@@ -102,16 +102,16 @@
                             <td><?php echo $row["author_name"] ?></td>
                             <td><?php echo $row["date_posted"] ?></td>
                             <td>
-                                    <a style="cursor:pointer" onClick="copyToClipboard('<?php echo url(); ?>/blog-detail.php?id=<?php echo $row["id"]; ?>')" data-toggle="tooltip" title="Copy Link"><i class="fa fa-clipboard" style="color:#1bb1dc"></i></a>
+                                    <a style="cursor:pointer" class="copy-link" id="<?php echo $row['id']; ?>" data-toggle="tooltip" title="Copy Link"><i class="fa fa-clipboard" style="color:#1bb1dc"></i></a>
                                     <a href="edit-blog.php?id=<?php echo $row["id"]; ?>" data-toggle="tooltip" title="Edit News"><i class="fa fa-pencil-square" style="color:#1bb1dc"></i></a>
-                                    <a style="cursor:pointer" class="remove"  id="<?php echo $row["id"]; ?>" data-toggle="tooltip" title="Delete"><i class="fa fa-trash" style="color:#1bb1dc"></i></a>
+                                    <a style="cursor:pointer" class="remove"  id="<?php echo $row['id']; ?>" data-toggle="tooltip" title="Delete"><i class="fa fa-trash" style="color:#1bb1dc"></i></a>
                             </td>
                           </tr>
                     <?php
                             $idx++;
                             }
                         } else {
-                        //echo "0 results";
+                        //echo "0 results";  onClick="copyToClipboard('<?php echo $id >')"
                         }
                         $conn->close();
                     ?>
@@ -136,7 +136,8 @@
    
    function copyToClipboard(text) { console.log("copying...");
          var input = document.body.appendChild(document.createElement("input"));
-         input.value = text;
+        
+         input.value = url+"/blog-detail.php/id="+text;
          input.focus();
          input.select();
          document.execCommand('copy');
@@ -170,7 +171,7 @@
 
        console.log(editorData); 
    } );*/
-$(document).ready(function() {
+$(document).ready(function() {  
 
   $(".remove").click(function(){ 
       var id = $(this).attr("id");
@@ -202,7 +203,18 @@ $(document).ready(function() {
         return false;
     }
     return true;
-  })
+  });
+
+  $(".copy-link").click(function(e){ 
+         var input = document.body.appendChild(document.createElement("input"));
+         let id = $(this).attr('id'); console.log(id);
+         let url = location.protocol+location.hostname+"/blog-detail.php?id="+id;
+         input.value = url;
+         input.focus();
+         input.select();
+         document.execCommand('copy');
+         input.parentNode.removeChild(input);
+  });
 });
 
 </script>

@@ -19,7 +19,7 @@
             <?php 
             if(isset($_GET['id'])) {
                 $blogId = $_GET['id'];
-            }
+            
             $sql = "SELECT * FROM blog WHERE id='".$blogId."'";
             $result = $conn->query($sql);
 
@@ -80,4 +80,7 @@
 </main><!-- End #main -->
 <?php
 require_once('footer.php');
+} else {
+  echo "Blog Post Not Found";
+}
 ?>

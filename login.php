@@ -8,24 +8,39 @@ if(isset($_GET['logout'])) {
 }
 
 if(isset($_POST['login'])) {
-		$mail=mysqli_real_escape_string($conn, $_POST['username']);
+		$username=mysqli_real_escape_string($conn, $_POST['username']);
 		$pwd=mysqli_real_escape_string($conn, $_POST['password']);
-		//$pwd=md5($pwd);		
-		$result=mysqli_query($conn, "SELECT * FROM employee WHERE `user_id`='$mail' && password='$pwd' && role_id='1'");		
-		$rowcount=mysqli_num_rows($result);
+		//$pwd=md5($pwd);
 		
-		if($rowcount==true)
-		{
-			$row=mysqli_fetch_assoc($result);
-			$_SESSION['user']=$row['name'];
-			$_SESSION['user_id']=$row['id'];
+		/* $options = [
+			'cost' => 10,
+		]; */		  
+		//$pwd1 = password_hash($pwd, PASSWORD_BCRYPT);
+		//echo $pwd1;
+		 function login($conn,$email, $password){
+			$sql1 = "SELECT * FROM `user` WHERE `username`='".$email."'";
+			$userResult=mysqli_query($conn, $sql1);
+			$userCount=mysqli_num_rows($userResult);		
+			if($userCount==true) { 
+				while($userRow = $userResult->fetch_assoc()) {
+					if(password_verify($password, $userRow['password'])) { echo $password; echo $email;
+						return password_verify($password, $userRow['password']);
+					} 					
+				}
+				return 0;
+			}
+			return 0;
+		}
+		if(login($conn,$username,$pwd)) {
+			$_SESSION['user']="Administrator";
 			header("location: add-blog.php"); 
 			exit;
 		} else {
 			$_SESSION['invalidlogindetails']="**Incorrect login details";
 			header("location:login.php"); 
-			exit;	  		
-		}
+			exit;
+		}		
+		
 
 } else {
 ?>
@@ -59,7 +74,7 @@ if(isset($_POST['login'])) {
 						<label for="exampleInputPassword1" class="form-label">Password</label>
 						<input type="password" class="form-control" id="exampleInputPassword1" name="password">
 					</div>
-					<button type="submit" name="login" class="btn btn-dark btn-block">Submit</button>
+					<button type="submit" name="login" class="btn btn-info btn-block">Submit</button>
 				</form>
 			</div>
 		</div>
@@ -74,4 +89,5 @@ if(isset($_POST['login'])) {
 <?php
 	require_once('footer.php');
 	}
+	$conn->close();
 ?>
