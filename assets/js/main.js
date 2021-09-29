@@ -33,7 +33,7 @@
 
   // Header scroll class
   $(window).scroll(function() {
-    if ($(this).scrollTop() > 100) {
+    if ($(this).scrollTop() > 10) { //100 changed by Shah Shahid
       $('#header').addClass('header-scrolled');
       $('#topbar').addClass('topbar-scrolled ');
     } else {
@@ -42,7 +42,7 @@
     }
   });
 
-  if ($(window).scrollTop() > 100) {
+  if ($(window).scrollTop() > 10) { //100 changed by Shah Shahid
     $('#header').addClass('header-scrolled');
     $('#topbar').addClass('topbar-scrolled');
   }

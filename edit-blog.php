@@ -138,6 +138,8 @@
 <?php
 require_once('footer.php');
 } else {
-    header('Location: login.php');
+    wp_redirect("login.php"); 
+    exit;
+    //header('Location: login.php');
 }
 ?>
