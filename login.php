@@ -4,7 +4,7 @@ require_once('connection.php');
 
 if(isset($_GET['logout'])) {
 	session_destroy();
-	header("location: login.php"); 
+	header("location:./login.php"); 
 	exit; 
 }
 
@@ -34,13 +34,13 @@ if(isset($_POST['login'])) {
 		}
 		if(login($conn,$username,$pwd)) {
 			$_SESSION['user']="Administrator";
-			//header("location: add-blog.php"); 
-			wp_redirect("add-blog.php");
+			header("location:./add-blog.php"); 
+			//wp_redirect("add-blog.php");
 			exit;
 		} else {
 			$_SESSION['invalidlogindetails']="**Incorrect login details";
-			//header("location:login.php");
-			wp_redirect("login.php"); 
+			header("location:./login.php");
+			//wp_redirect("login.php"); 
 			exit;
 		}		
 		

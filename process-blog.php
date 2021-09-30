@@ -19,13 +19,13 @@ if(isset($_GET['edit'])){
       if ($conn->query($sql) === TRUE) {            
             echo "Blog Added Successfully";
             $_SESSION['msg']="News blog has been updated  successfully"; 
-            //header('Location: blog-home.php');
-            wp_redirect("blog-home.php"); 
+            header('Location:./blog-home.php');
+            //wp_redirect("blog-home.php"); 
             exit;
       } else {
         $_SESSION['msg']="Error: News blog was not updated, please try again"; 
-        //header('Location: blog-home.php');
-        wp_redirect("blog-home.php");
+        header('Location:./blog-home.php');
+        //wp_redirect("blog-home.php");
         exit;
         echo "Error: " . $sql . "<br>" . $conn->error;
       }
@@ -65,24 +65,24 @@ if(isset($_GET['edit'])){
                   } else {
                     $_SESSION['msg']="Error: News blog Tags were not added, Please try again"; 
                     echo "Error in Tags: " . $sql . "<br>" . $conn->error;
-                    //header('Location: blog-home.php');
-                    wp_redirect("blog-home.php");
+                    header('Location:./blog-home.php');
+                    //wp_redirect("blog-home.php");
                     exit;
                   }
                 } 
              }
             echo "Blog Added Successfully";
             $_SESSION['msg']="News blog was added  successfully";
-            //header('Location: blog-home.php');
-            wp_redirect("blog-home.php");
+            header('Location:./blog-home.php');
+            //wp_redirect("blog-home.php");
             exit;
           }      
   
        } else {
         $_SESSION['msg']="Error: News blog was not added, please try again";
         echo "Error: " . $sql . "<br>" . $conn->error;
-        //header('Location: blog-home.php');
-        wp_redirect("blog-home.php");
+        header('Location:./blog-home.php');
+        //wp_redirect("blog-home.php");
         exit;
       }
        

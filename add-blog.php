@@ -2,7 +2,10 @@
     require_once('header.php');
     require_once('connection.php');
     $activePage = "Blog";
-    if(isset($_SESSION['user'])) {
+    if(!isset($_SESSION['user'])) {
+      header('Location:./login.php');
+      exit;
+    }
 ?>
 
 <section id="main-section" class="clearfix">
@@ -244,10 +247,4 @@ function url(){
       $_SERVER['REQUEST_URI']
     );
   } */
-
-} else {
-  wp_redirect("login.php"); 
-  exit;
-  //header('Location: login.php');
-}
 ?>
