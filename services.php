@@ -33,7 +33,7 @@
               <h4 class="title"><a >Onsite PCR Testing</a></h4>
               <p class="description">
              	 <br>
-              		<a href="ssm.php">RRT via Self-Swab Model</a> <br>
+              		<a>RRT via Self-Swab Model</a> <br>
               		<a >Voluntary Surveillance</a>   
               	 <br>            		
               </p>
@@ -57,8 +57,8 @@
               <div class="icon" style="background: #e6fdfc;"><i class="ion-ios-home-outline" style="color: #3fcdc7;"></i></div>
               <h4 class="title"><a >ART Testing Services</a></h4>
               <p class="description">
-              		<a>"Engage a Sup" (EaS) for Employer Supervised Self Swab (ESSS)</a>
-              		<a >Onsite Administered ART Testing</a>  
+              		<a href="mobile-supervised-self-swab.php"> Mobile Assisted and Supervised Self-Swab</a><br>
+              		<a> Pop-Up ART Self-Swab Centre</a>  
               </p>
             </div>
           </div>

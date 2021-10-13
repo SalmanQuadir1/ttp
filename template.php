@@ -1,9 +1,10 @@
-<section id="main-section" class="clearfix">
-	<div class="container-fluid pt-5">
-	
 <?php
 require_once('header.php');
 ?>
+
+<section id="main-section" class="clearfix">
+	<div class="container-fluid pt-5">
+	
 
 <!-- Body Section -->
 
