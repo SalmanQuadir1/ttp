@@ -9,9 +9,10 @@ require_once('header.php');
         padding-left: 0;
     }
     .custom-list-inner li:before {
-        content: "\1F539";
+        content: "\1F534";
         padding-right: 10px;
-        color: #1BB1DC;
+        color: red;
+        font-size: 12px;
     } 
     .custom-list {
         list-style: none;
@@ -19,18 +20,27 @@ require_once('header.php');
         padding-left: 0;
     }
     .custom-list li{
-       /*  background-color: #e2e2e2 !important; */
+        background-color: #f2f2f2;
+        border-radius: 5px;
         padding: 5px;
         margin-bottom:5px;
         font-size: 18px;
         padding-left: 1em;
         text-indent: -1em;
     }
-    .custom-list li:before {
-        content: "\2713";
+    .custom-list .li1:before {
+        content: "\2764";
+        padding-left: 15px;
+        padding-right: 10px;
+        color: #ff6600;
+    } 
+    .custom-list .li:before {
+        content: "";
+        margin-left: 15px;
+        padding-left: 15px;
         padding-right: 5px;
-        color: #1BB1DC;
-    }    
+    }   
+    
 </style>
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
@@ -40,7 +50,7 @@ require_once('header.php');
 <div class="container-fluid" data-aos="fade-down">
         <div class="row feature-item mt-5 pt-5">
           <div class="col-lg-6 wow fadeInUp order-1 order-lg-2" data-aos="fade-left">
-            <img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/medical_equipment_covid19_other/1800x1200_medical_equipment_covid19_5_other.jpg?resize=*:350px" class="img-fluid mb-2" alt="">
+            <img src="assets/img/ma3s.jpg" class="img-fluid mb-2" alt="">
             
           </div>
 
@@ -147,8 +157,8 @@ require_once('header.php');
             <div class="text-center col-sm-12">
             
               <h4>TheTestingPro<sup><span style="font-size:12px">TM</span></sup> </h4>
-              <h3>Mobile Assisted and Supervised Self-Swab<h3>
-              <h3>(MA3S)<h3>
+              <h4><b>Mobile Assisted and Supervised Self-Swab</b><h4>
+              <h4><b>(MA3S)</b><h4>
               <hr>
             </div>
         </div>
@@ -162,13 +172,13 @@ require_once('header.php');
             </div>
             <div class="col-sm-7 text-left">
                 <ul class="custom-list">
-                    <li> We Go To You</li>
-                    <li> We Identify A Safe And Suitable Testing Location</li>
-                    <li> We Supervise The ART Self-Swabs</li>
-                    <li> We Ensure Self-Swabs Are Done Correctly</li>
-                    <li> We Update And Upload Results</li>
-                    <li> We Track And Monitor Attendance</li>
-                    <li> We Roster And Schedule</li>
+                    <li class="li1"> We Go To You</li>
+                    <li class="li"> <i class="fa fa-map-marker  pr-2" style="color:gray"></i> We Identify A Safe And Suitable Testing Location</li>
+                    <li class="li"> <i class="fa fa-user  pr-2" style="color:#ff9900"></i> We Supervise The ART Self-Swabs</li>
+                    <li class="li"> <i class="fa fa-check  pr-2" style="color: #1BB1DC"></i> We Ensure Self-Swabs Are Done Correctly</li>
+                    <li class="li"> <i class="fa fa-bar-chart  pr-2" style="color: #339933"></i> We Update And Upload Results</li>
+                    <li class="li"> <i class="fa fa-file-text  pr-2" style="color: #ff9933"></i> We Track And Monitor Attendance</li>
+                    <li class="li"> <i class="fa fa-calendar  pr-2" style="color: gray"></i> We Roster And Schedule</li>
                 </ul>
             </div>
         </div>
@@ -177,7 +187,7 @@ require_once('header.php');
                 <p class="text-center">
                     <b>Let Us Do What We Are Good At So You Can Focus Your Time And Efforts On Other Important Matters For Your Business and Organization</b>
                     <br><br>
-                    <a href="" class="lead">Request for MA3S Intro Deck  </a>
+                    <a href="" style="font-size:24px; font-weight: bolder;" data-toggle="modal" data-target="#myModal">Request for MA3S Intro Deck  </a>
                 </p>
             </div>
             <div class="text-center">
@@ -190,6 +200,56 @@ require_once('header.php');
       </div>
 <!-- End Body Section -->
 
+<!-- /////////////////////////////////////// MODAL FORM ////////////////////////-->
+
+<!--Button trigger for modal--> 
+ 
+<!--Begin Modal Window--> 
+<div class="modal fade left" id="myModal"> 
+    <div class="modal-dialog"> 
+        <div class="modal-content"> 
+            <div class="modal-header"> 
+                <h3 class="pull-left no-margin">MA3S Request Form</h3>
+                <button type="button" class="close" data-dismiss="modal" title="Close"><span class="glyphicon glyphicon-remove"></span>
+                </button> 
+            </div> 
+            <div class="modal-body">
+                <div class="form" id="popup">          
+                    <form action="processPopupForm.php" method="post" role="form" class="php-modal-form">
+
+                    <div class="form-group">
+                        <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                        <div class="validate"></div>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" name="email" class="form-control" id="email" placeholder="Email*" data-rule="email" data-msg="Please enter a valid email" />
+                        <div class="validate"></div>
+                    </div>                
+                    <div class="mb-3">
+                        <smal>We Will send you message shortly!</smal>
+                        <div class="loading">Loading</div>
+                        <div class="error-message"></div>
+                        <div class="sent-message">Your message has been sent. Thank you!</div>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" title="Send Message" class="btn btn-block btn-info" name="submit" value="submit">Submit</button>
+                    </div>
+                    </form>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <div class="col-xs-10 pull-left text-left text-muted">                    
+                </div> 
+                    <button class="btn-sm close" type="button" data-dismiss="modal">Close</button> 
+                </div> 
+            </div> 
+        </div>
+    </div> 
+</div>
+
+<script src="assets/vendor/php-email-form/validate.js"></script>
 <!-- Contact Section -->
 <iframe class="contact-form"  id="contact-form"
 			allowTransparency="true" 

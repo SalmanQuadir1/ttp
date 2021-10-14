@@ -60,23 +60,49 @@
           </div>
    	 </div>
    </section>
+
+   <!-- Features |Section -->
+  <section id="features" class="features"> 
+      <div class="container">
+
+        <div class="row feature-item">
+          <div class="col-lg-7 wow fadeInUp" data-aos="fade-right" data-aos-delay="150">
+            <h4>Learn more about our Mobile Assisted and Supervised Self Swab (MA3S) Solution</h4> 
+            <p>
+              Testing continues to be an important part of the Nation’s strategy to detect and ringfence 
+                infections in the community early. Mandatory seven (7) or fourteen (14) days <b>Fast and Easy 
+                Test (FET) Rostered Routine Testing (RRT)</b> is now in place for many workers across different
+                 industries and type of settings.
+                 <br><br>
+                 <a>&#128073; Booking appointments at the <b>Quick Test Centres (QTC)</b> for their employees to do the ART tests; or </a><br>
+                 <a>&#128073; Adopt the <b>Employer-led Supervised Self-Swab(ESSS)</b> model and conduct RRT in-house.</a>
+            </p>            
+            <div>
+              <a href="mobile-supervised-self-swab.php" class="btn-get-started btn btn-info px-5">Learn More About MA3S &raquo;</a>
+            </div>
+          </div>
+          <div class="col-lg-5" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/covid-self-test.png" class="img-fluid" alt="">
+          </div>
+        </div>
+
+        
+
+      </div>
+</section>
+	   
+   <!-- End Features Section -->
    
   <main id="main">
-    <div class="about-bg" >
-		 <!-- ======= About Section ======= style="background: #37517e;"-->
-     <section id="about" class="about" >
+  <div class="about-bg" >
+<!-- ======= About Section ======= style="background: #37517e;"-->
+    <section id="about" class="about" >
 
 <div class="container" data-aos="fade-up">
   <div class="row letter-container-row">
 
     <div class="col-lg-3 col-md-4 letter-container-outer">
       <div class="about-img align-middle" data-aos="fade-right" data-aos-delay="100">
-        <!-- <div class="letter-container">
-          <span class="big-letter">P</span><br>
-          <span class="big-letter">M</span><br>
-          <span class="big-letter">A</span><br>
-          <span class="big-letter">C</span>
-        </div> -->
            <div class="align-middle" data-aos="zoom-in">
             <a href="/">
               <img class="w-100" alt="TheTestingPro" src="assets/img/TheTestingPro-Logo_NoBG-Black.png" style="">
