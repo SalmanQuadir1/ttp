@@ -2,7 +2,14 @@
   require_once('header.php');
   $activePage = "Home";
 ?>
-
+<style>
+  #about {
+    padding: 10px 0px;
+  }
+  #about .about-content {
+      padding-top: 0px !important;
+  }
+</style>
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
 	
@@ -34,6 +41,26 @@
  </div>
   </section>
   <!-- End Hero -->
+
+  <!-- ======= Services Section ======= -->
+<section id="about" class="about section-bg">
+      <div class="container">
+          <h4><b>Antigen Rapid Test (ART) Private Quick Test Centre (p-QTC)</b></h4>      
+        <div class=" form-group about-content">
+          TheTestingPro<sup>TM</sup> is approved by the Ministry of Health Singapore to operate p-QTC for self-administered and supervised ART tests at the following locations:
+              <ul class="ml-md-4">
+                  <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Pasir Panjang Wholesale Centre</li>
+                  <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Jurong Fishery Port</li>
+                  <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Canopy at J-Link (Jurong East Central)</li>
+                  <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Blk 535 Choa Chu Kang St 51 (Limbang)</li>
+                  <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Blk 60A Circuit Road</li>
+                  <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Blk 108 Yishun Ring Road (Chong Pang Market)</li>
+              </ul>
+              Click <a href="pqtc.php" class="text-danger"><b>HERE</b> </a> for more information and details.
+          </div>
+      </div>
+    </section>
+    <!-- End Services Section -->
    <section>
    	 <div class="row">
    	 	<div class="col-lg-5 col-md-4" >
@@ -90,6 +117,8 @@
 
       </div>
 </section>
+
+
 	   
    <!-- End Features Section -->
    

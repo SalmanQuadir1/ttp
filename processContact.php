@@ -7,7 +7,7 @@ require_once('assets/vendor/phpMailer/SMTP.php');
 
 if(isset($_POST['email'])){
 
-    $to = "info@thetestingpro.com"; // this is your Email address
+    $to = "shahid.jktechnosoft@gmail.com"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
     if(isset($_POST['companyName'])){
       $company_name = $_POST['companyName'];
@@ -39,8 +39,8 @@ if(isset($_POST['email'])){
       $mail->Password   = "in5#aS135!}";
 
       $mail->IsHTML(true);
-      $mail->AddAddress("info@thetestingpro.com", "TheTestingPro");
-      $mail->SetFrom("info@thetestingpro.com", "TheTestingPro");
+      $mail->AddAddress("shahid.jktechnosoft@gmail.com", "Shah Shahid");
+      $mail->SetFrom("shahid.sheikhpora@gmail.com", "TheTestingPro");
       $mail->Subject = $subject;
       $mail->AddEmbeddedImage('logo.png', 'logoImage');
 
@@ -88,13 +88,13 @@ if(isset($_POST['email'])){
 
       $mail->MsgHTML($content); 
       if($mail->Send()) {
-          /* $msg = "OK";          
-          echo $msg; */
-          return;
+          $msg = "OK";          
+          echo $msg; exit;
+          //return;
       } else {
           echo "Error while sending Email.";
-          return;
-          //var_dump($mail);
+          //return; 
+          var_dump($mail); exit;
       }
    
     }

@@ -50,6 +50,7 @@
           <li class="drop-down m1" label="Services"><a href="">Services</a>
             <ul>
               <li><a href="services.php">Our Services</a></li>
+              <li><a href="pqtc.php">p-Quick Test Centers</a></li>
               <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>              
               <!-- <li><a href="art-esss.php">Assisted and Supervised ART Self-Swab</a></li> -->              
             </ul>
