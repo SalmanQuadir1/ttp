@@ -70,9 +70,9 @@ require_once('header.php');
                             <img class="img-responsive" src="assets/img/gallery/pQTC_PPWC3.jpg">
                         </a>
                     </li>
-                    <br>
-                    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
                 </ul>
+                <br>
+                <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
             </div>
         </div>
 
