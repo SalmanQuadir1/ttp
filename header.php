@@ -56,7 +56,7 @@
             </ul>
           </li>  
           <li class="m1" label="Blog"><a href="blog-home.php">Newsroom</a></li> 
-          <li class="drop-down m1" label="Contact"><a href="">Contact</a>
+          <li class="drop-down m1" label="Contact"><a href="">Contact</a>  
             <ul>
              <li><a href="contact.php">Contact Us</a></li>
               <li><a href="terms-and-conditions.php">Terms and Conditions</a></li>
