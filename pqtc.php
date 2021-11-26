@@ -4,8 +4,6 @@
 ?>
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
-	
-    <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
 <!-- Body Section -->
 
      <!-- ======= About Section ======= style="background: #37517e;"-->
