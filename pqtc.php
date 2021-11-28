@@ -2,6 +2,20 @@
   require_once('header.php');
   $activePage = "Contact";
 ?>
+<style>
+    #about .about-content ul {
+        list-style: disc;
+        padding: revert;
+    }
+    #about .about-content ul li {
+        padding-bottom: 4px;
+    }
+    #about .about-content ul li i {
+        font-size: inherit;
+        padding-right: 4px;
+        color: unset;
+    }
+</style>
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
 <!-- Body Section -->
@@ -16,9 +30,19 @@
         <div class="about-content" data-aos="fade-left" data-aos-delay="100">
         <h2><b>TheTestingPro<sup>TM</sup></b> Private Quick Test Centre (p-QTC) for ART Testing</h2>    
             <p>
-                To support the nation’s Covid-19 testing efforts, along with our aim to make available conveniently 
-                located and safe testing facilities to persons requiring ART testing, we have set up p-QTCs at the 
-                following locations:
+                To support the nation’s Covid-19 testing efforts, along with our aim to make available 
+                conveniently located and safe testing facilities to persons requiring ART testing, we have set 
+                up p-QTCs at the locations below.
+            </p>
+            <p>
+                <h4>Our ART Testing Centres Offer The Following Services:</h4>
+                <ul>
+                    <li>FET Rostered Routine Testing (RRT)</li>
+                    <li>Pre-Event Testing (PET)</li>
+                    <li>Pre-Departure Testing (PDT)* <span class="text-muted"><small><i>At selected sites only</i></small><span></li>
+                    <li>Voluntary Testing</li>
+                </ul> 
+                <div class="text-center"><b>For ART Test appointment bookings and enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a> </b></div>             
             </p>
         </div>
     </div>
@@ -34,17 +58,17 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Pasir Panjang Wholesale Centre</td>
+                        <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>PDT available</i></span></td>
                         <td>1 Wholesale Centre <br>Singapore 110001</td>
                         <td><b>Monday to Wednesday only </b><br><tt>8am to 12pm</tt></td>
                     </tr>
                     <tr>
-                        <td>Jurong Fishery Port</td>
+                        <td>Jurong Fishery Port<br> (Canteen) <br> <span class="text-danger"><i>PDT available</i></span></td>
                         <td>35 Fishery Port Road<br>Singapore 619742</td>
                         <td><b>Tuesday and Friday only </b><br><tt>8:30am to 11:30am</tt></td>
                     </tr>
                     <tr>
-                        <td>Canopy @ J-Link</td>
+                        <td>Canopy @ J-Link <br> <span class="text-danger"><i>PDT available</i></span></td>
                         <td>134 Jurong Gate Way Road<br>Singapore 600134</td>
                         <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm</tt></td>
                     </tr>
@@ -54,7 +78,7 @@
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
                     <tr>
-                        <td>Blk 60A Circuit Road   <br>(Event Hall)</td>
+                        <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PDT available</i></span></td>
                         <td>60A Circuit Road<br>Singapore 370060</td>
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
@@ -64,7 +88,7 @@
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
                     <tr>
-                        <td>Blk 678 Woodlands Ave 6  <br>(Admiralty Wet Market)</td>
+                        <td>Blk 678 Woodlands Ave 6  <br>(Admiralty Wet Market) <br> <span class="text-danger"><i>PDT available</i></span></td>
                         <td>678 Woodlands Ave 6<br>Singapore 730678</td>
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
@@ -73,21 +97,15 @@
         </div>
     </div>
     <div class="col-sm-12">
-        <p>
-            <h3>Walk Into Any Of Our ART Testing Centres For:</h3>
-            <ul>
-                <li>FET Rostered Routine Testing (RRT)</li>
-                <li>Pre-Event Testing (PET)</li>
-                <li>Pre-Departure Testing (PDT)</li>
-                <li>Voluntary Testing</li>
-            </ul>
+        <p class="font-weight-bold text-center">
+        All our test centres are licensed by the Ministry of Health (MOH) Singapore to conduct selfadministered/supervised 
+        ART tests, and administered ART tests.
         </p>
-        <p class="font-weight-bold">
-            All our test centres are licensed by the Ministry of Health (MOH) Singapore to conduct 
-            self-administered and supervised ART tests, as well as administered ART tests.
-        </p>
-        <div class="text-center">
-            	<i class="fa fa-comments-o"></i> <em> For ART Test appointment bookings and enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a></em>	
+        <h5 class="text-danger">Important Notice for Pre-Event and Pre-Departure Testing:</h5>
+        <div class="font-weight-bold">
+            Please be informed that TheTestingPro is only responsible for administering/supervising the ART
+            testing and the provision certificates of test results. It is your responsibility to find out in advance the
+            requirements for the specific events/VTL before registering for the ART test at our test centres.
         </div>
   </div>
   </div>
