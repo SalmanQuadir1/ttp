@@ -1,7 +1,9 @@
 <?php
   require_once('header.php');
-  $activePage = "Contact";
+  $activePage = "Services";
 ?>
+<link href="https://cdn.jsdelivr.net/lightgallery/1.3.9/css/lightgallery.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/light-gallery.css">
 <style>
     #about .about-content ul {
         list-style: disc;
@@ -107,6 +109,72 @@
             testing and the provision certificates of test results. It is your responsibility to find out in advance the
             requirements for the specific events/VTL before registering for the ART test at our test centres.
         </div>
+
+        <h3 class="mt-5 text-center">Image Gallery</h3>
+        <div class="demo-gallery p-5 table-success">
+                <ul id="lightgallery" class="list-unstyled row mt-3">
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_CCK1.jpg" data-src="assets/img/gallery/pQTC_CCK1.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_CCK1.jpg">
+                        </a>
+                    </li>
+                   <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_CCK2.jpg" data-src="assets/img/gallery/pQTC_CCK2.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_CCK2.jpg">
+                        </a>
+                    </li>
+                     <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_CCK3.jpg" data-src="assets/img/gallery/pQTC_CCK3.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_CCK3.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_JEC1.jpg" data-src="assets/img/gallery/pQTC_JEC1.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_JEC1.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_JEC2.jpg" data-src="assets/img/gallery/pQTC_JEC2.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_JEC2.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_JEC3.jpg" data-src="assets/img/gallery/pQTC_JEC3.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_JEC3.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_JFP1.jpg" data-src="assets/img/gallery/pQTC_JFP1.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_JFP1.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_JFP2.jpg" data-src="assets/img/gallery/pQTC_JFP2.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_JFP2.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_JFP3.jpg" data-src="assets/img/gallery/pQTC_JFP3.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_JFP3.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_PPWC1.jpg" data-src="assets/img/gallery/pQTC_PPWC1.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_PPWC1.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_PPWC2.jpg" data-src="assets/img/gallery/pQTC_PPWC2.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_PPWC2.jpg">
+                        </a>
+                    </li>
+                    <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_PPWC3.jpg" data-src="assets/img/gallery/pQTC_PPWC3.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
+                        <a href="">
+                            <img class="img-responsive" src="assets/img/gallery/pQTC_PPWC3.jpg">
+                        </a>
+                    </li>
+                </ul>
+            </div>
   </div>
   </div>
 </div>
@@ -121,6 +189,14 @@
 
 
 </main><!-- End #main -->
+
+
 <?php
 require_once('footer.php');
 ?>
+<script src="assets/js/light-gallery.min.js"></script>
+<script>
+    $(document).ready(function(){
+        $('#lightgallery').lightGallery(); 
+    });
+</script>

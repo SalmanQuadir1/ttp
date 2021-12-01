@@ -63,7 +63,7 @@
               <li><a href="privacy-policy.php">Privacy Policy</a></li>              
             </ul>
           </li>  
-          <li class="m1" label="Blog"><a href="photo-gallery.php">Gallery</a></li> 
+          <!-- <li class="m1" label="Blog"><a href="photo-gallery.php">Gallery</a></li>  -->
           <!-- <li><a href="/login">Login</a></li>  -->
           <?php if(isset($_SESSION['user'])) { ?>
             <li><a href="add-blog.php">Add Blog</a></li>
