@@ -17,6 +17,16 @@
         padding-right: 4px;
         color: unset;
     }
+    .box {
+        padding: 20px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 0 10px 40px 10px;        
+        box-shadow: 0 10px 29px 0 rgb(68 88 144 / 10%);
+        transition: all 0.3s ease-in-out;
+        text-align: center;
+    }
 </style>
 <section id="main-section" class="clearfix">
 	<div class="container-fluid pt-5">
@@ -30,21 +40,24 @@
 
     <div class="col-lg-12 col-md-12" >
         <div class="about-content" data-aos="fade-left" data-aos-delay="100">
-        <h2><b>TheTestingPro<sup>TM</sup></b> Private Quick Test Centre (p-QTC) for ART Testing</h2>    
+        <h2><b>TheTestingPro<sup>TM</sup></b> ART p-Quick Test Centre (p-QTC)</h2>    
             <p>
-                To support the nation’s Covid-19 testing efforts, along with our aim to make available 
-                conveniently located and safe testing facilities to persons requiring ART testing, we have set 
-                up p-QTCs at the locations below.
+                To support the nation's Covid-19 testing efforts, along with our aim to make available conveniently 
+                located and safe testing facilities to persons requiring Antigen Rapid Test (ART), we have set up 
+                p-QTCs at the locations below.
             </p>
             <p>
-                <h4>Our ART Testing Centres Offer The Following Services:</h4>
+                <h4>Our ART p-Quick Test Centres Offer The Following Type of Tests:</h4>
                 <ul>
-                    <li>FET Rostered Routine Testing (RRT)</li>
-                    <li>Pre-Event Testing (PET)</li>
-                    <li>Pre-Departure Testing (PDT)* <span class="text-muted"><small><i>At selected sites only</i></small><span></li>
-                    <li>Voluntary Testing</li>
+                    <li>FET Rostered Routine Test (RRT)</li>
+                    <li>Pre-Event Test (PET)</li>
+                    <li>Pre-Departure Test (PDT)* <span class="text-muted"><small><i>At selected sites only</i></small><span></li>
+                    <li>Voluntary Test</li>
                 </ul> 
-                <div class="text-center"><b>For ART Test appointment bookings and enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a> </b></div>             
+                <div class="text-center"><b>For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a> </b>
+            
+                <p>To book an appointment for your Antigen Rapid Test (ART), please click <a href="book-art.php"><b><i>HERE</i></b></a></p>           
+            </div>  
             </p>
         </div>
     </div>
@@ -60,17 +73,17 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>PDT available</i></span></td>
+                        <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
                         <td>1 Wholesale Centre <br>Singapore 110001</td>
                         <td><b>Monday to Wednesday only </b><br><tt>8am to 12pm</tt></td>
                     </tr>
                     <tr>
-                        <td>Jurong Fishery Port<br> (Canteen) <br> <span class="text-danger"><i>PDT available</i></span></td>
+                        <td>Jurong Fishery Port<br> (Canteen) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
                         <td>35 Fishery Port Road<br>Singapore 619742</td>
                         <td><b>Tuesday and Friday only </b><br><tt>8:30am to 11:30am</tt></td>
                     </tr>
                     <tr>
-                        <td>Canopy @ J-Link <br> <span class="text-danger"><i>PDT available</i></span></td>
+                        <td>Canopy @ J-Link <br> (Jurong East Central) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
                         <td>134 Jurong Gate Way Road<br>Singapore 600134</td>
                         <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm</tt></td>
                     </tr>
@@ -80,18 +93,18 @@
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
                     <tr>
-                        <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PDT available</i></span></td>
+                        <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>Administered ART available</i></span></td>
                         <td>60A Circuit Road<br>Singapore 370060</td>
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
                     <tr>
-                        <td>Blk 108 Yishun Ring Rd    <br>(Chong Pang Market)</td>
+                        <td>Blk 108 Yishun Ring Rd    <br>(Chong Pang City)</td>
                         <td>108 Yishun Ring Road<br>Singapore 760108</td>
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
                     <tr>
-                        <td>Blk 678 Woodlands Ave 6  <br>(Admiralty Wet Market) <br> <span class="text-danger"><i>PDT available</i></span></td>
-                        <td>678 Woodlands Ave 6<br>Singapore 730678</td>
+                        <td>Blk 17 Marsiling Lane   <br>(Marsiling Market) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
+                        <td>17 Marsiling Lane<br>Singapore 730017</td>
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
                 </tbody>
@@ -99,18 +112,34 @@
         </div>
     </div>
     <div class="col-sm-12">
-        <p class="font-weight-bold text-center">
-        All our test centres are licensed by the Ministry of Health (MOH) Singapore to conduct selfadministered/supervised 
-        ART tests, and administered ART tests.
+        
+        <p class="text-center font-weight-bold">
+            All our test centres are licensed by the Ministry of Health (MOH) Singapore to conduct both administered 
+            and supervised Antigen Rapid Test (ART).<br>
+            <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)">https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)</a> 
         </p>
-        <h5 class="text-danger">Important Notice for Pre-Event and Pre-Departure Testing:</h5>
-        <div class="font-weight-bold">
-            Please be informed that TheTestingPro is only responsible for administering/supervising the ART
-            testing and the provision certificates of test results. It is your responsibility to find out in advance the
-            requirements for the specific events/VTL before registering for the ART test at our test centres.
-        </div>
 
-        <h3 class="mt-5 text-center">Image Gallery</h3>
+        <h5 class="text-danger">Important Notice for Pre-Event Test (PET) and Pre-Departure Test (PDT):</h5>
+        <div class="text-center font-weight-bold">
+            Please be informed that TheTestingPro is only responsible for administering/supervising the ART as 
+            well as the provision of certificates of test result. It is the client's responsibility to find out 
+            in advance the exact requirements for the specific events/VTL before taking such tests at our test 
+            centres.<br><br>
+               For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
+            
+        </div>
+        <div class="row mt-3 box">
+            <div class="col-sm-9 pt-2">
+                <h5 class="text-center m-0">BOOK AN APPOINTMENT FOR YOUR ANTIGEN RAPID TEST (ART)</h5>
+            </div>
+            <div class="col-sm-3">
+                
+                    <a href="book-art.php" class="btn btn-info btn-block">Book Now <i class="fa fa-hand-o-right" aria-hidden="true"></i></a>
+                
+            </div>
+            
+        </div>
+        <h3 class="mt-5 text-center">Our p-Quick Test Centres</h3>
         <div class="demo-gallery p-5 table-success">
                 <ul id="lightgallery" class="list-unstyled row mt-3">
                     <li class="col-xs-6 col-sm-4 col-md-2 col-lg-2" data-responsive="assets/img/gallery/pQTC_CCK1.jpg" data-src="assets/img/gallery/pQTC_CCK1.jpg" data-sub-html="<h4>TheTestingPro<sup>TM</sup></h4><p>Responsible protection to keep from spreading coronavirus and its variants.</p>">
