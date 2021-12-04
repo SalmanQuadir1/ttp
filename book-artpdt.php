@@ -39,7 +39,16 @@
 
             <div class="col-lg-12 col-md-12" >
                 <div class="about-content" data-aos="fade-left" data-aos-delay="100">
-                    <h2>Antigen Rapid Test (ART) Appointment Booking</h2>    
+                    <h2>Antigen Rapid Test (ART) Pre-Departure Test (PDT) Appointment Booking</h2>
+                    <p>
+                    This form is only for making appointments for Antigen Rapid Test (ART) Pre-Departure Test (PDT) 
+                    </p> 
+                    <p>
+                    Please be reminded that TheTestingPro is only responsible for administering the ART and 
+                    provide the certificate of test result. It is the client’s responsibility to find out in
+                     advance the exact requirements and validity for the specific VTL PDT before taking such 
+                     tests at our test centres.
+                    </p>   
                     <p>
                         <!-- <div id="emf-form-iframe-container" class="box">
                             <iframe id="myIframe" frameborder="0" allowTransparency="true" src="https://www.emailmeform.com/builder/embed/Of773jUae9" allow="camera"><a href="https://www.emailmeform.com/builder/embed/Of773jUae9">Fill out form.</a></iframe>

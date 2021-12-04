@@ -42,9 +42,9 @@
         <div class="about-content" data-aos="fade-left" data-aos-delay="100">
         <h2><b>TheTestingPro<sup>TM</sup></b> ART p-Quick Test Centre (p-QTC)</h2>    
             <p>
-                To support the nation's Covid-19 testing efforts, along with our aim to make available conveniently 
-                located and safe testing facilities to persons requiring Antigen Rapid Test (ART), we have set up 
-                p-QTCs at the locations below.
+                To support the nation’s Covid-19 testing efforts, along with our aim to make available 
+                conveniently located and safe testing facilities to persons requiring Antigen Rapid Test 
+                (ART), we have set up p-QTCs at the locations below.
             </p>
             <p>
                 <h4>Our ART p-Quick Test Centres Offer The Following Type of Tests:</h4>
@@ -56,7 +56,7 @@
                 </ul> 
                 <div class="text-center"><b>For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a> </b>
             
-                <p>To book an appointment for your Antigen Rapid Test (ART), please click <a href="book-art.php"><b><i>HERE</i></b></a></p>           
+                <p>To book an appointment for your Administered Antigen Rapid Test (ART) Pre-Departure Test (PDT), please click <a href="book-artpdt.php"><b><i>HERE</i></b></a></p>           
             </div>  
             </p>
         </div>
@@ -119,12 +119,12 @@
             <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)">https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)</a> 
         </p>
 
-        <h5 class="text-danger">Important Notice for Pre-Event Test (PET) and Pre-Departure Test (PDT):</h5>
+        <h5 class="text-danger">Important Notice for Pre-Departure Test (PDT):</h5>
         <div class="text-center font-weight-bold">
-            Please be informed that TheTestingPro is only responsible for administering/supervising the ART as 
-            well as the provision of certificates of test result. It is the client's responsibility to find out 
-            in advance the exact requirements for the specific events/VTL before taking such tests at our test 
-            centres.<br><br>
+            Please be reminded that TheTestingPro is only responsible for administering the ART and provide the 
+            certificate of test result. It is the client’s responsibility to find out in advance the exact 
+            requirements and validity for the specific VTL PDT before taking such tests at our test centres.
+        <br><br>
                For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
             
         </div>
@@ -134,7 +134,7 @@
             </div>
             <div class="col-sm-3">
                 
-                    <a href="book-art.php" class="btn btn-info btn-block">Book Now <i class="fa fa-hand-o-right" aria-hidden="true"></i></a>
+                    <a href="book-artpdt.php" class="btn btn-info btn-block">Book Now <i class="fa fa-hand-o-right" aria-hidden="true"></i></a>
                 
             </div>
             

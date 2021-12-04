@@ -53,7 +53,7 @@
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="">p-Quick Test Centers</a>
                 <ul>
                   <li><a href="pqtc.php">p-Quick Test Centers</a></li>             
-                  <li><a href="book-art.php">Book ART Appointment</a></li>             
+                  <li><a href="book-artpdt.php">Book ART PDT</a></li>             
                 </ul>
               </li>
               <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>              
