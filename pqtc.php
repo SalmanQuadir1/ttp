@@ -58,9 +58,9 @@
                 <div class="row mt-4 box form-group">
                     <div class="col-sm-12">
                         <h4 class="text-center"><b>Appointment Bookings</b></h4> <br>                           
-                        <ul class="form-group">
-                            <li><P><b><u>Supervised Self ART</u> </b> for Pre-Event Test (PET) / Voluntary Test, please <a href="https://go.gov.sg/pay-covid-19-test"><b>BOOK HERE</b></a></P> </li>    
-                            <li><b><u>Administered ART</u> </b> for Pre-Departure Test (PDT), please  <a href="book-artpdt.php"><b>BOOK HERE</b></a> </li>
+                        <ul class="form-group fa-ul" style="list-style:none">
+                            <li><span class="fa-li"><i class="fa fa-link"></i></span><P><b><u>Supervised Self ART</u> </b> for Pre-Event Test (PET) / Voluntary Test, please <a href="https://go.gov.sg/pay-covid-19-test"><b>BOOK HERE</b></a></P> </li>    
+                            <li><span class="fa-li"><i class="fa fa-link"></i></span><b><u>Administered ART</u> </b> for Pre-Departure Test (PDT), please  <a href="book-artpdt.php"><b>BOOK HERE</b></a> </li>
                         </ul>
                     </div>
                 </div>
@@ -133,9 +133,9 @@
         <div class="row mt-4 box form-group">
             <div class="col-sm-12">
                 <h4 class="text-center"><b>Appointment Bookings</b></h4> <br>                           
-                <ul class="form-group">
-                    <li><P><b><u>Supervised Self ART</u> </b> for Pre-Event Test (PET) / Voluntary Test, please <a href="https://go.gov.sg/pay-covid-19-test"><b>BOOK HERE</b></a></P> </li>    
-                    <li><b><u>Administered ART</u> </b> for Pre-Departure Test (PDT), please  <a href="book-artpdt.php"><b>BOOK HERE</b></a> </li>
+                <ul class="form-group fa-ul" style="list-style:none">
+                    <li><span class="fa-li"><i class="fa fa-link"></i></span><P><b><u>Supervised Self ART</u> </b> for Pre-Event Test (PET) / Voluntary Test, please <a href="https://go.gov.sg/pay-covid-19-test"><b>BOOK HERE</b></a></P> </li>    
+                    <li><span class="fa-li"><i class="fa fa-link"></i></span><b><u>Administered ART</u> </b> for Pre-Departure Test (PDT), please  <a href="book-artpdt.php"><b>BOOK HERE</b></a> </li>
                 </ul>
             </div>
         </div>
