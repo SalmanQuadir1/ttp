@@ -25,7 +25,7 @@
         margin: 0 10px 40px 10px;        
         box-shadow: 0 10px 29px 0 rgb(68 88 144 / 10%);
         transition: all 0.3s ease-in-out;
-        text-align: center;
+        /* text-align: center; */
     }
 </style>
 <section id="main-section" class="clearfix">
@@ -51,13 +51,19 @@
                 <ul>
                     <li>FET Rostered Routine Test (RRT)</li>
                     <li>Pre-Event Test (PET)</li>
-                    <li>Pre-Departure Test (PDT)* <span class="text-muted"><small><i>At selected sites only</i></small><span></li>
+                    <li>Pre-Departure Test (PDT)* <span class="text-muted"><small><i>At selected sites and by appointment only</i></small><span></li>
                     <li>Voluntary Test</li>
                 </ul> 
-                <div class="text-center"><b>For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a> </b>
-            
-                <p>To book an appointment for your Administered Antigen Rapid Test (ART) Pre-Departure Test (PDT), please click <a href="book-artpdt.php"><b><i>HERE</i></b></a></p>           
-            </div>  
+                <div class="text-center"><b>For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com </a> </b></div>  
+                <div class="row mt-4 box form-group">
+                    <div class="col-sm-12">
+                        <h4 class="text-center"><b>Appointment Bookings</b></h4> <br>                           
+                        <ul class="form-group">
+                            <li><P><b><u>Supervised Self ART</u> </b> for Pre-Event Test (PET) / Voluntary Test, please <a href="https://go.gov.sg/pay-covid-19-test"><b>BOOK HERE</b></a></P> </li>    
+                            <li><b><u>Administered ART</u> </b> for Pre-Departure Test (PDT), please  <a href="book-artpdt.php"><b>BOOK HERE</b></a> </li>
+                        </ul>
+                    </div>
+                </div>
             </p>
         </div>
     </div>
@@ -78,7 +84,7 @@
                         <td><b>Monday to Wednesday only </b><br><tt>8am to 12pm</tt></td>
                     </tr>
                     <tr>
-                        <td>Jurong Fishery Port<br> (Canteen) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
+                        <td>Jurong Fishery Port<br> (Canteen) </td>
                         <td>35 Fishery Port Road<br>Singapore 619742</td>
                         <td><b>Tuesday and Friday only </b><br><tt>8:30am to 11:30am</tt></td>
                     </tr>
@@ -107,6 +113,11 @@
                         <td>17 Marsiling Lane<br>Singapore 730017</td>
                         <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                     </tr>
+                    <tr>
+                        <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
+                        <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
+                        <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
@@ -119,16 +130,27 @@
             <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)">https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)</a> 
         </p>
 
-        <h5 class="text-danger">Important Notice for Pre-Departure Test (PDT):</h5>
+        <div class="row mt-4 box form-group">
+            <div class="col-sm-12">
+                <h4 class="text-center"><b>Appointment Bookings</b></h4> <br>                           
+                <ul class="form-group">
+                    <li><P><b><u>Supervised Self ART</u> </b> for Pre-Event Test (PET) / Voluntary Test, please <a href="https://go.gov.sg/pay-covid-19-test"><b>BOOK HERE</b></a></P> </li>    
+                    <li><b><u>Administered ART</u> </b> for Pre-Departure Test (PDT), please  <a href="book-artpdt.php"><b>BOOK HERE</b></a> </li>
+                </ul>
+            </div>
+        </div>
+
+        <h5 class="text-danger text-center">Important Notice for Pre-Departure Test (PDT):</h5>
         <div class="text-center font-weight-bold">
-            Please be reminded that TheTestingPro is only responsible for administering the ART and provide the 
-            certificate of test result. It is the client’s responsibility to find out in advance the exact 
-            requirements and validity for the specific VTL PDT before taking such tests at our test centres.
+            Please be reminded that TheTestingPro is only responsible for administering the ART and providing 
+            the notarised digital health certificate of test results. It is the client’s responsibility to 
+            find out in advance the specific Pre-Departure Test (PDT) requirements and test validity before 
+            taking any such tests at our test centres.
         <br><br>
                For enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
             
         </div>
-        <div class="row mt-3 box">
+        <!-- <div class="row mt-3 box">
             <div class="col-sm-9 pt-2">
                 <h5 class="text-center m-0">BOOK AN APPOINTMENT FOR YOUR ANTIGEN RAPID TEST (ART)</h5>
             </div>
@@ -138,7 +160,7 @@
                 
             </div>
             
-        </div>
+        </div> -->
         <h3 class="mt-5 text-center">Our p-Quick Test Centres</h3>
         <div class="demo-gallery p-5 table-success">
                 <ul id="lightgallery" class="list-unstyled row mt-3">
