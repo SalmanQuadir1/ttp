@@ -140,7 +140,7 @@
             </div>
         </div>
 
-        <h5 class="text-danger text-center">Important Notice for Pre-Departure Test (PDT):</h5>
+        <h5 class="text-danger text-center">Important Notice for Pre-Departure Test (PDT)</h5>
         <div class="text-center font-weight-bold">
             Please be reminded that TheTestingPro is only responsible for administering the ART and providing 
             the notarised digital health certificate of test results. It is the client’s responsibility to 
