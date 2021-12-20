@@ -72,7 +72,7 @@
             <table class="table table-success table-hover">
                 <thead>
                     <tr>
-                        <th>Site Name</th>
+                        <th>Test Center</th>
                         <th>Address</th>
                         <th>Operating Hours</th>
                     </tr>
