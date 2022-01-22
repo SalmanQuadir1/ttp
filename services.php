@@ -16,7 +16,7 @@
 
         <header class="section-header">
           <h3>Services</h3>
-          <p class="w-100"><strong>TheTestingPro</strong> (<em>in partnership with Saudara Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows: 
+          <p class="w-100"><strong>TheTestingPro</strong>(<em>in partnership with Saudara Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows: 
 
 
           </p>
