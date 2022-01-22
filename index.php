@@ -105,12 +105,12 @@
       <div class="row">
         <div class="col-sm-12">
           <div class="text-center">
-            <a href="pcr-pdt.php" class="linkButton btn btn-info" data-aos="slide-up">
+            <a href="pcr-pdt.php" class="linkButton btn btn-info mr-md-3 mb-3" data-aos="slide-up">
               <strong>PCR</strong><br>
               Click for Booking or <br>
               More Information
             </a>
-            <a href="art-pdt.php" class="linkButton btn btn-info ml-md-3 mt-3" data-aos="slide-down">
+            <a href="art-pdt.php" class="linkButton btn btn-info mb-3" data-aos="slide-down">
               <strong>ART</strong> <br>
               Click for Booking or <br>
               More Information
@@ -234,12 +234,12 @@
                   </div>
                   <div class="col-sm-12">
                     <div class="text-center">
-                      <a href="pcr-pdt.php" class="linkButton btn btn-info" data-aos="fade-left">
+                      <a href="pcr-pdt.php" class="linkButton btn btn-info mr-md-3 mb-3" data-aos="fade-left">
                         <strong>PCR</strong><br>
                         Click for Booking or <br>
                         More Information
                       </a>
-                      <a href="art-pdt.php" class="linkButton btn btn-info ml-md-3 mt-3" data-aos="fade-right">
+                      <a href="art-pdt.php" class="linkButton btn btn-info mb-3" data-aos="fade-right">
                         <strong>ART</strong> <br>
                         Click for Booking or <br>
                         More Information
