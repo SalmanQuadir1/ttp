@@ -85,12 +85,12 @@
                   
                </li>
                 <li class="li-first"><i class="fa fa-angle-double-right"></i>
-                  Professionally Administered Antigen Rapid Test (ART)
+                  <span style="text-decoration: underline;">Professionally Administered</span> Antigen Rapid Test (ART)
                   <ul><li>  Good for Pre-Departure Test (PDT)</li></ul>
                 
                 </li>
                 <li class="li-first"><i class="fa fa-angle-double-right"></i>
-                  Supervised Self-Administered Antigen Rapid Test (ART)
+                <span style="text-decoration: underline;">Supervised Self-Administered</span> Antigen Rapid Test (ART)
                   <ul>
                     <li>FET-RRT </li>
                     <li>Pre-Event Test </li>

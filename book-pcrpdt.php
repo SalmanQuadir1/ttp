@@ -41,7 +41,7 @@
                 <div class="about-content" data-aos="fade-left" data-aos-delay="100">
                     <h2>Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) Appointment Booking</h2>
                     <p>
-                        This form is <strong>only</strong> for making appointments for <strong>PCR Pre-Departure Test (PDT) </strong>
+                        This form is <strong style="text-decoration: underline;">only</strong> for making appointments for <strong>PCR Pre-Departure Test (PDT) </strong>
                     </p> 
                     <p>
                         Please be reminded that TheTestingPro is only responsible for administering the PCR Test 

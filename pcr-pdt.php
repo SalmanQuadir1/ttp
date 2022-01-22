@@ -24,7 +24,7 @@
                                     <tr>
                                         <th>What</th>
                                         <td>Professionally Administered PCR Test
-                                            <strong>(Results and Notarized Digital Health Certificate within 24 hours)</strong>
+                                            <strong>(<em>Results and Notarized Digital Health Certificate within 24 hours</em>)</strong>
                                         </td>
                                         <td rowspan="6">
                                             <img clas="img-fluid " src="assets/img/art-pdt3.png" alt="" data-aos="slide-left" data-aos-delay="100">
