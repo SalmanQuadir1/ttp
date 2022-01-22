@@ -110,7 +110,7 @@
               Click for Booking or <br>
               More Information
             </a>
-            <a href="art-pdt.php" class="linkButton btn btn-info ml-3" data-aos="slide-down">
+            <a href="art-pdt.php" class="linkButton btn btn-info ml-md-3 mt-3" data-aos="slide-down">
               <strong>ART</strong> <br>
               Click for Booking or <br>
               More Information
@@ -123,7 +123,7 @@
   <!-- End Services Section -->
 
   <!-- ======= ART Section ======= -->
-<section id="about" class="about section-bg mt-2">
+<!-- <section id="about" class="about section-bg mt-2">
       <div class="container">
           <h4><b>Antigen Rapid Test (ART) Private Quick Test Centre (p-QTC)</b></h4>      
         <div class=" form-group about-content">
@@ -139,11 +139,11 @@
               Click <a href="pqtc.php" class="text-danger"><b>HERE</b> </a> for more information and details.
           </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- End ART Section -->
   <!-- ======= Pre-Departure Test (PDT) Section ======= -->
-<section id="about" class="about section-bg mt-2">
+<section id="about" class="about section-bg mt-5">
       <div class="container">
           <h4 class="text-center"><strong>Pre-Departure Test (PDT)</strong></h4>      
         <div class=" form-group about-content">
@@ -239,7 +239,7 @@
                         Click for Booking or <br>
                         More Information
                       </a>
-                      <a href="art-pdt.php" class="linkButton btn btn-info ml-3" data-aos="fade-right">
+                      <a href="art-pdt.php" class="linkButton btn btn-info ml-md-3 mt-3" data-aos="fade-right">
                         <strong>ART</strong> <br>
                         Click for Booking or <br>
                         More Information
