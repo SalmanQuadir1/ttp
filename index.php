@@ -229,7 +229,7 @@
                   <div class="col-sm-12">
                       <p class="text-center">
                       <em>All our test centres are licensed by the Ministry of Health (MOH) Singapore to conduct Off Site Covid-19 Testing Services </em><br>
-                          <a href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)">https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)</a> 
+                          <a target="_blank" href="https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)">https://www.moh.gov.sg/covid-19/quick-test-centres-(qtcs)</a> 
                       </p>
                   </div>
                   <div class="col-sm-12">
