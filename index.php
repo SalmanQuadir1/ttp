@@ -76,7 +76,7 @@
           <div class="col-lg-7 col-md-8" >
             <div class="about-content" data-aos="fade-left" data-aos-delay="100">
             <h3>Our Services</h3>    
-            <p>TheTestingPro (in partnership with Saudara Clinic) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows:</p>        
+            <p>TheTestingPro (<em>in partnership with Saudara Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows:</p>        
               
               <ul class="service-list">
                 <li class="li-first"><i class="fa fa-angle-double-right"></i>
@@ -90,7 +90,7 @@
                 
                 </li>
                 <li class="li-first"><i class="fa fa-angle-double-right"></i>
-                <span style="text-decoration: underline;">Supervised Self-Administered</span> Antigen Rapid Test (ART)
+                Supervised <span style="text-decoration: underline;">Self-Administered</span> Antigen Rapid Test (ART)
                   <ul>
                     <li>FET-RRT </li>
                     <li>Pre-Event Test </li>
