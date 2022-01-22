@@ -47,16 +47,20 @@
       <nav class="main-nav d-none d-lg-block">
         <ul>
           <li class="m1" label="Home"><a href="index.php">Home</a></li>
-          <li class="drop-down m1" label="Services"><a href="">Services</a>
+          <li class="drop-down m1" label="Services"><a href="services.php">Services</a>
             <ul>
-              <li><a href="services.php">Our Services</a></li>
-              <li class="drop-down m1" label="p-Quick Test Centers"><a href="">p-Quick Test Centers</a>
+              <li><a href="pqtc.php">p-Quick Test Centers</a></li>
+              <li class="drop-down m1" label="p-Quick Test Centers"><a href="art-pdt.php">ART PDT</a>
                 <ul>
-                  <li><a href="pqtc.php">p-Quick Test Centers</a></li>             
-                  <li><a href="book-artpdt.php">Book ART PDT</a></li>             
+                  <li><a href="book-artpdt.php">Booking ART</a></li>              
                 </ul>
               </li>
-              <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>              
+              <li class="drop-down m1" label="p-Quick Test Centers"><a href="pcr-pdt.php">PCR PDT</a>
+                <ul>
+                  <li><a href="book-pcrpdt.php">Booking PCR</a></li>              
+                </ul>
+              </li>
+              <!-- <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>  -->             
               <!-- <li><a href="art-esss.php">Assisted and Supervised ART Self-Swab</a></li> -->              
             </ul>
           </li>  
