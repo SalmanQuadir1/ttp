@@ -41,7 +41,7 @@
           <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="box">
               <div class="icon" style="background: #fff0da;"><i class="ion-ios-bookmarks-outline" style="color: #e98e06;"></i></div>
-              <h4 class="title"><a >PCR <br>
+              <h4 class="title"><a href="pcr-pdt.php">PCR <br>
                 Pre-Departure Test
                 </a>
               </h4>
@@ -58,13 +58,13 @@
           <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="box">
               <div class="icon" style="background: #e6fdfc;"><i class="ion-ios-home-outline" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="pcr-pdt.php">Mobile/Home <br>
+              <h4 class="title"><a>Mobile/Home <br>
                 Covid-19 Test Services
                 
                 </a>
               </h4>
               <p class="description">
-              		<a href="pcr-pdt.php"> (Contact Us for more info)</a><br>
+              		<a > (Contact Us for more info)</a><br>
               		<!-- <a> Pop-Up ART Self-Swab Centre</a>   -->
               </p>
             </div>
@@ -81,7 +81,7 @@
           <div class="col-md-6 col-lg-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="box">
               <div class="icon" style="background: #e6fdfc;"><i class="ion-ios-cloud-outline" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a >ART <br>
+              <h4 class="title"><a href="pqtc.php">ART <br>
                 Pre-Event Test
                 </a>
               </h4>
