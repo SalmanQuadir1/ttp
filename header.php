@@ -49,14 +49,17 @@
           <li class="m1" label="Home"><a href="index.php">Home</a></li>
           <li class="drop-down m1" label="Services"><a href="services.php">Services</a>
             <ul>
+              <li class="d-sm-none"><a href="services.php">Services</a></li>
               <li><a href="pqtc.php">p-Quick Test Centers</a></li>
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="art-pdt.php">ART PDT</a>
                 <ul>
+                  <li class="d-sm-none"><a href="art-pdt.php">ART PDT</a></li>              
                   <li><a href="book-artpdt.php">Booking ART</a></li>              
                 </ul>
               </li>
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="pcr-pdt.php">PCR PDT</a>
                 <ul>
+                  <li class="d-sm-none"><a href="pcr-pdt.php">PCR PDT</a></li>              
                   <li><a href="book-pcrpdt.php">Booking PCR</a></li>              
                 </ul>
               </li>
