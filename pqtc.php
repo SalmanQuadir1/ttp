@@ -68,6 +68,7 @@
         </div>
     </div>
     <div class="col-sm-12">
+        <h4 class=""><strong>Our Test Centres</strong></h4>  
         <div class="table-responsive">
         <table class="table table-hover table-bordered">
                         <thead>
@@ -121,9 +122,10 @@
                             
                         </tbody>
                     </table>
+                    <small><em>Above listing correct as at 24 Jan 2022</em></small>
         </div>
     </div>
-    <div class="col-sm-12">
+    <div class="col-sm-12 mt-3">
         
         <p class="text-center font-weight-bold">
             All our test centres are licensed by the Ministry of Health (MOH) Singapore to conduct both administered 
