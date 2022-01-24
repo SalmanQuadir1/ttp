@@ -133,7 +133,7 @@
                             To book an appointment for Administered ART, please <a href="book-artpdt.php" >CLICK HERE</a>
                         </p>
                         <p class="text-center" data-aos="slide-right">
-                        For any enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
+                            For any enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
                         </p>
                     </div>
                 </div>

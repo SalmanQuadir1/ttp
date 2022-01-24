@@ -149,7 +149,7 @@
         <div class=" form-group about-content">
             <p>
               Our selected test centres provide <strong>Pre-Departure Test (PDT)</strong> services 
-              <strong>(PCR and Professionally Administered ART)</strong> required for international cross-border travel.
+              <strong>(Professionally Administered PCR and ART)</strong> required for international cross-border travel.
             </p>
             <p class="">
               In addition to being approved and licensed by the Ministry of Health Singapore to conduct Off 
