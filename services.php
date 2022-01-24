@@ -16,7 +16,7 @@
 
         <header class="section-header">
           <h3>Services</h3>
-          <p class="w-100"><strong>TheTestingPro</strong>(<em>in partnership with Saudara Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows: 
+          <p class="w-100"><strong>TheTestingPro </strong> (<em>in partnership with Saudara Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows: 
 
 
           </p>
@@ -63,8 +63,8 @@
                 
                 </a>
               </h4>
-              <p class="description">
-              		<a > (Contact Us for more info)</a><br>
+              <p class="description text-center">
+              		<a > (Contact Us)</a><br>
               		<!-- <a> Pop-Up ART Self-Swab Centre</a>   -->
               </p>
             </div>
@@ -95,8 +95,8 @@
                 Pre-Event Test                
                 </a>
                 </h4>
-              <p class="description">
-                <a>(Contact Us for more info)</a>
+              <p class="description text-center">
+                <a>(Contact Us)</a>
               </p>
             </div>
           </div>

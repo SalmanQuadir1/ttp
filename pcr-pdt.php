@@ -126,11 +126,11 @@
                                 (all inclusive)
                             </strong>
                         </h4> <br>                           
-                        <p class="text-center" data-aos="slide-left">
+                        <p class="font-weight-bold text-center" data-aos="slide-left">
                             To book an appointment for PCR Test, please  <a href="book-pcrpdt.php" >CLICK HERE</a>
                         </p>
-                        <p class="font-weight-bold text-center" data-aos="slide-right">
-                        For any enquiries about PCR testing, please email to <a href="mailto:info@thetestingpro.com">info@thetestingpro.com</a>
+                        <p class="text-center" data-aos="slide-right">
+                        For any enquiries, please email to  <a href="mailto:info@thetestingpro.com">info@thetestingpro.com</a>
                         </p>
                     </div>
                 </div>

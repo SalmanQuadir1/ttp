@@ -157,8 +157,8 @@
               Digital Health Certificates</strong> which can be used for cross-border travel.
             </p>
             <p class="text-center my-2" data-aos="slide-right">
-              <i class="fa fa-hand-o-right" aria-hidden="true"></i> For more information about PCR Pre-Departure Test (PDT) <a href="art-pdt.php" >CLICK HERE</a><br>
-              <i class="fa fa-hand-o-right" aria-hidden="true"></i>	For more information about ART Pre-Departure Test (PDT) <a href="pcr-pdt.php" >CLICK HERE</a>
+              <i class="fa fa-hand-o-right" aria-hidden="true"></i> For more information about <strong>PCR</strong> Pre-Departure Test (PDT) <a href="pcr-pdt.php" >CLICK HERE</a><br>
+              <i class="fa fa-hand-o-right" aria-hidden="true"></i>	For more information about <strong>ART</strong> Pre-Departure Test (PDT) <a href="art-pdt.php" >CLICK HERE</a>
             </p>
         </div>
       </div>
@@ -270,8 +270,9 @@
                   No frills, fast and easy. We simplify testing thus making it the way it should be.
               </li>
               <li>
-                  We are partnered with MOH/HSA Approved PCR Testing Labs and Healthcare Providers (HCP) 
-                  licensed by MOH to conduct Off-Site PCR/ART testing.
+              We are partnered with MOH Licensed Healthcare Institute (HCI) and HSA Approved Covid-19 
+              Testing Labs; and authorized to conduct Off-Site PCR/ART testing.
+
               </li>
               <li>
                   <strong>Our competitive rates makes it much more cost effective for you!</strong>               
@@ -307,8 +308,8 @@
                   <strong>Covid-19 Testing is key to the resumption of more economic and community activities.</strong>
                 </li>
                 <li><i class=""></i>Testing plays a key role in our efforts to contain and mitigate the COVID-19 pandemic by identifying infected individuals and create a ring fence to help prevent further person-to-person transmission of COVID-19.</li>
-                <li><i class=""></i>•	Responsible protection to keep from spreading coronavirus and its variants, plus regular testing and having the proper vaccinations, can help reduce the occurrence of Covid-19 infection and protect those in our population who are the most vulnerable to complications.</li>
-                 <li><i class=""></i>•	We can make a difference in our community by adhering to all public health requirements. Working together, we can all overcome this pandemic and seamlessly transit towards endemicity!</li>
+                <li><i class=""></i>Responsible protection to keep from spreading coronavirus and its variants, plus regular testing and having the proper vaccinations, can help reduce the occurrence of Covid-19 infection and protect those in our population who are the most vulnerable to complications.</li>
+                 <li><i class=""></i>We can make a difference in our community by adhering to all public health requirements. Working together, we can all overcome this pandemic and seamlessly transit towards endemicity!</li>
               </ul>
             </div>
           </div>

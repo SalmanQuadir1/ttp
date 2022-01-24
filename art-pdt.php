@@ -129,11 +129,11 @@
                 <div class="row mt-4 box form-group">
                     <div class="col-sm-12">
                         <h4 class="text-center text-danger"><b>Only S$25.00 per test</b></h4> <br>                           
-                        <p class="font-weight-bold text-center" data-aos="slide-right">
-                        For any enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
-                        </p>
-                        <p class="text-center" data-aos="slide-left">
+                        <p class="text-center font-weight-bold" data-aos="slide-left">
                             To book an appointment for Administered ART, please <a href="book-artpdt.php" >CLICK HERE</a>
+                        </p>
+                        <p class="text-center" data-aos="slide-right">
+                        For any enquiries, please email to <a href="mailto:pqtc@thetestingpro.com">pqtc@thetestingpro.com</a>
                         </p>
                     </div>
                 </div>
