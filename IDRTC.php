@@ -165,7 +165,7 @@ ol ol li{
               <li>
                 To complete the challenge, a Participant:
                 <ol style="list-style-type:lower-alpha;">
-                  <li>Must complete at least <strong>ONE (1)</strong> Supervised Self ART per week and for <strong>FOUR (4)</strong> consecutive weeks; and                     
+                  <li>Must complete at least <strong>ONE (1)</strong> Supervised Self ART per week <strong><u>and</u></strong> for <strong>FOUR (4)</strong> consecutive weeks; and                     
                   </li>
                   <li>Complete all the FOUR (4) Tests required <u>only</u> at any of our 
                     <a href="pqtc.php">Test Centers</a>; and 
@@ -194,8 +194,8 @@ ol ol li{
       <div class="row">
         <div class="col-sm-12">
           <p class="text-center my-5">
-            For any queries or clarifications regarding the I DO ROUTINE TESTING Challenge, please email 
-            <a href="mailto:info@thetestingpro.com">info@thetestingpro.com</a>
+            <em>For any queries or clarifications regarding the I DO ROUTINE TESTING Challenge, please email 
+            <a href="mailto:info@thetestingpro.com">info@thetestingpro.com</a></em>
           </p>
           <p>
             <h5 class="font-weight-bold">NOTICE:</h5>
