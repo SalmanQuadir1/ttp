@@ -50,7 +50,13 @@
           <li class="drop-down m1" label="Services"><a href="services.php">Services</a>
             <ul>
               <li class="d-sm-none"><a href="services.php">Services</a></li>
-              <li><a href="pqtc.php">p-Quick Test Centers</a></li>
+              <!-- <li><a href="pqtc.php">p-Quick Test Centers</a></li> -->
+              <li class="drop-down m1" label="p-Quick Test Centers"><a href="pqtc.php">p-Quick Test Centers</a>
+                <ul>
+                  <li class="d-sm-none"><a href="pqtc.php">p-Quick Test Centers</a></li>              
+                  <li><a href="IDRTC.php">IDRTC</a></li>              
+                </ul>
+              </li>
               <li class="drop-down m1" label="p-Quick Test Centers"><a href="art-pdt.php">ART PDT</a>
                 <ul>
                   <li class="d-sm-none"><a href="art-pdt.php">ART PDT</a></li>              
