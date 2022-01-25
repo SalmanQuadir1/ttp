@@ -89,7 +89,7 @@ ol ol li{
                     </tr>
                     <tr>
                         <th>WHY</th>
-                        <td>To create increased awareness towards the importance of routine testing and 
+                        <td>To create increased awareness towards the importance of <strong>routine testing</strong> and 
                           encourage compliance; as well as to promote voluntary routine testing.
                         </td>
                     </tr>
