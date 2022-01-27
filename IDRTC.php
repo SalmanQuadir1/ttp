@@ -126,9 +126,9 @@ ol ol li{
                     <tr>
                         <th>HOW</th>
                         <td>
-                          Do at least <span class="text-danger">ONE <strong>(1)</strong></span> 
+                          Do at least <span class="text-danger"><strong>ONE (1)</strong></span> 
                           <u>Supervised Self-Administered ART</u> per week, for 
-                          <span class="text-danger">FOUR <strong>(4)</strong></span> consecutive weeks, at any of our Test Centers
+                          <span class="text-danger"><strong>FOUR (4)</strong></span> consecutive weeks, at any of our Test Centers
                         </td>                                        
                     </tr>
                     <tr>
