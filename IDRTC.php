@@ -45,13 +45,13 @@ ol ol li{
 
     <div class="row mt-4">
       <div class="col-sm-12" data-aos="zoom-in" data-aos-delay="100">
-        <p class="text-center">
+       <!--  <p class="text-center">
           For the period from <strong>31 Jan 2022 to 28 Feb 2022</strong>, simply do <strong>ONE (1)</strong> Supervised Self-Administered Antigen 
           Rapid Test (ART) per week for <strong>FOUR (4)</strong> consecutive weeks at any of our Test Centers and be rewarded 
           with a <strong>S$12 FairPrice e-voucher</strong>.*
 
         </p>
-        <p class="text-center"><small><em>*Terms & Conditions Apply</em></small></p>
+        <p class="text-center"><small><em>*Terms & Conditions Apply</em></small></p> -->
         <p class="text-center">
           <strong><em>
             Routine testing is key to safeguarding our community and workplace. It enables early detection 
