@@ -38,38 +38,51 @@ ol ol li{
       <header class="section-header">
         <div class="col-sm-12 text-center">
           <div class="why-us-img">
-            <img src="assets/img/idrtc.png" alt="" class="img-fluid">
+            <img src="assets/img/IDRTC-Header-Banner.png" alt="" class="img-fluid">
           </div>
         </div>
       </header>      
 
     <div class="row mt-4">
       <div class="col-sm-12" data-aos="zoom-in" data-aos-delay="100">
-        <p class="text-center">
+       <!--  <p class="text-center">
           For the period from <strong>31 Jan 2022 to 28 Feb 2022</strong>, simply do <strong>ONE (1)</strong> Supervised Self-Administered Antigen 
           Rapid Test (ART) per week for <strong>FOUR (4)</strong> consecutive weeks at any of our Test Centers and be rewarded 
           with a <strong>S$12 FairPrice e-voucher</strong>.*
 
+        </p> -->
+        <!-- <p class="text-center"><small><em>*Terms & Conditions Apply</em></small></p> -->
+        <p>
+          <strong>27 Jan 2022 - </strong>To support the national efforts in combating the pandemic and to increase 
+          awareness towards the importance of routine testing, <strong>TheTestingPro</strong> is proud 
+          to announce the launch of the "<strong>I DO ROUTINE TESTING</strong>"
+          Challenge (IDRTC).
         </p>
-        <p class="text-center"><small><em>*Terms & Conditions Apply</em></small></p>
-        <p class="text-center">
-          <strong><em>
-            Routine testing is key to safeguarding our community and workplace. It enables early detection 
-            and blocks widespread transmission. Doing routine testing helps protect our families and loved 
-            ones.
-          </em></strong>
+        <p class="">
+          <strong>
+            Routine testing is a key component in safeguarding our community and workplaces. It enables early 
+            detection and prevents widespread transmission. It can help reduce the occurrence of Covid-19 
+            infection and protect those in our population who are the most vulnerable to complications.
+          </strong>
         </p>
         <p>
-          To support the national efforts in combating the pandemic, and to increase awareness towards the 
-          importance of routine testing, <strong>TheTestingPro</strong> is proud to launch the "<strong>I DO ROUTINE TESTING</strong>"
-          Challenge campaign.
+          Through the “I DO ROUTINE TESTING” campaign, we wish to encourage compliance towards routine 
+          testing as well as promote voluntary routine testing. We hope that more people will know the 
+          importance of and how routine testing helps in early detection, the critical role it plays in 
+          ringfencing and isolating infections, which all contributes to blocking (or at least minimizing) 
+          widespread transmission. 
         </p>
         <p>
-          Through this campaign, we wish to encourage compliance to routine testing as well as promote 
-          voluntary testing. We want more people to know about the importance of routine testing, and how 
-          it helps to ringfence and isolate infected cases, which can block widespread transmission. And 
-          with the growing number of asymptomatic Covid-19 cases being reported, routine testing plays a 
-          very big part in making our community and workplace safer. 
+          With the number of asymptomatic Covid-19 cases that are reported being on the rise, and along 
+          with the festive season just around the corner, where there are bound to be visitations and mini 
+          gatherings, albeit with Safe Management Measures in place that are to be strictly adhered to, 
+          routine testing plays an even bigger role in making our community safe, as well as protecting 
+          the well-being of our families, loved ones and friends.
+        </p>
+        <p>
+          <strong>Together, we can all make a difference. We will overcome this pandemic and seamlessly 
+            transit towards endemicity, sooner than later!
+          </strong>
         </p>
 
       </div>
@@ -77,7 +90,7 @@ ol ol li{
     <div class="row">
       <div class="col-sm-12">
         <h5 class="font-weight-bold">
-          Let's all embark on routine testing. It's the best way for us to protect our families and loved ones.
+          About the IDRT Challenge
         </h5>
 
         <div class="table-responsive">
@@ -99,7 +112,7 @@ ol ol li{
                     </tr>
                     <tr>
                         <th>WHERE</th>
-                        <td>At all TheTestingPro <a href="pqtc.php"><strong>Testing Centers</strong></a></td>
+                        <td>At all TheTestingPro <a href="pqtc.php"><strong>p-Quick Testing Centers</strong></a></td>
                     </tr>
                     <tr>
                         <th>WHO</th>
@@ -113,7 +126,8 @@ ol ol li{
                     <tr>
                         <th>HOW</th>
                         <td>
-                          Do at least <span class="text-danger">ONE <strong>(1)</strong></span> <span style="text-decoration:underline;">Supervised Self ART</span> per week, for 
+                          Do at least <span class="text-danger">ONE <strong>(1)</strong></span> 
+                          <u>Supervised Self-Administered ART</u> per week, for 
                           <span class="text-danger">FOUR <strong>(4)</strong></span> consecutive weeks, at any of our Test Centers
                         </td>                                        
                     </tr>
@@ -128,7 +142,7 @@ ol ol li{
         </div>
       </div>
       
-      <div class="row mt-3">
+     <!--  <div class="row mt-3">
         <div class="col-sm-12">
           <h4>How to take the I DO ROUTINE TESTING Challenge</h4>
           <ol>
@@ -189,20 +203,28 @@ ol ol li{
             </ol>
           </p>
         </div>
-      </div>
+      </div> -->
 
       <div class="row">
         <div class="col-sm-12">
-          <p class="text-center my-5">
-            <em>For any queries or clarifications regarding the I DO ROUTINE TESTING Challenge, please email 
-            <a href="mailto:info@thetestingpro.com">info@thetestingpro.com</a></em>
+          <p class="my-5">
+            For more information about the "<strong>I DO ROUTINE TESTING</strong>" Challenge, please visit 
+            <a href="IDRTC.php"> www.thetestingpro.com/IDRTC</a>
           </p>
           <p>
             <h5 class="font-weight-bold">NOTICE:</h5>
             <div>
-            TheTestingPro "<strong>I DO ROUTINE TESTING</strong>" Challenge is a private initiative and wholly self-funded 
-            campaign. It is not endorsed or supported, in any way or form, by any Ministries or Agencies.
+              The "<strong>I DO ROUTINE TESTING</strong>" Challenge is a private initiative and wholly self-funded by TheTestingPro. 
+              It is neither endorsed nor supported, in any way or form, by any Ministries or Agencies.
             </div>
+          </p>
+          <p>
+            <p class="font-weight-bold">Media Contact:</p>
+
+            <span class="font-weight-bold">Ben Ho</span> <br>
+            <a href="mailto:admin@thetestingpro.com">admin@thetestingpro.com</a> <br>
+            +65 8011 8728
+
           </p>
         </div>
       </div>
