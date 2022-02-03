@@ -60,7 +60,10 @@
 <!-- End Body Section -->
 
 <!-- Contact Section -->
-    <iframe class="contact-form"  id="contact-form"
+<?php
+  require_once('contact-form.php');
+?>
+    <!-- <iframe class="contact-form"  id="contact-form"
         allowTransparency="true" 
         frameborder="0" 
         scrolling="yes" 
@@ -69,7 +72,7 @@
         allow="camera"
         >
         <a href="https://www.emailmeform.com/builder/embed/BuIJd34180MN7VwxCG3O4aK">Fill out form.</a>
-	</iframe>
+	</iframe> -->
     
 <!-- End contact Section -->
 

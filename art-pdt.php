@@ -89,29 +89,39 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
+                                <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>All ART services available</i></span></td>
                                 <td>1 Wholesale Centre <br>Singapore 110001</td>
                                 <td><b>Monday to Wednesday only </b><br><tt>8am to 12pm</tt></td>
                             </tr>
                             <tr>
-                                <td>Canopy @ J-Link <br> (Jurong East Central) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
-                                <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube)</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm</tt></td>
+                                <td>Canopy @ J-Link <br> (Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube / Jurong East Central)</td>
+                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
                             </tr>
                             <tr>
-                                <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>Administered ART available</i></span></td>
-                                <td>60A Circuit Road<br>Singapore 370060</td>
+                                <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>60A Circuit Road<br>Singapore 370060 </td>
                                 <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
                             </tr>
                             <tr>
-                                <td>Blk 17 Marsiling Lane   <br>(Marsiling Market) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
-                                <td>17 Marsiling Lane<br>Singapore 730017</td>
-                                <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
+                                <td>Blk 17 Marsiling Lane   <br>(Void -Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
+                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
                             </tr>
                             <tr>
-                                <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>Administered ART available</i></span></td>
+                                <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
-                                <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                            </tr>
+                            <tr>
+                                <td>Blk 75A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>75A Whampoa Drive<br>Singapore 321075</td>
+                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                            </tr>
+                            <tr>
+                                <td>Blk 17 Ghim Moh Rd    <br>(Void Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>17 Ghim Moh Road<br>Singapore 270017</td>
+                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
                             </tr>
                             
                         </tbody>
