@@ -40,7 +40,7 @@
 
     <div class="col-lg-12 col-md-12" >
         <div class="about-content" data-aos="fade-left" data-aos-delay="100">
-        <h2><b>TheTestingPro<sup>TM</sup></b> ART p-Quick Test Centre (p-QTC)</h2>    
+        <h2><b>TheTestingPro<sup>TM</sup></b> ART p-Quick Test Centre (p-QTC)  </h2>    
             <p>
                 To support the nation’s Covid-19 testing efforts, along with our aim to make available 
                 conveniently located and safe testing facilities to persons requiring Antigen Rapid Test 
@@ -92,7 +92,7 @@
                             <tr>
                                 <td>Canopy @ J-Link <br> (Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube / Jurong East Central)</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </td>
                             </tr>
                             <tr>
                                 <td>Blk 535 Choa Chu Kang St 51 <br>(Void Deck)<br> <span class="text-danger"><i>Supervised Self-Administered ART only</i></span></td>
@@ -102,7 +102,7 @@
                             <tr>
                                 <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>60A Circuit Road<br>Singapore 370060 </td>
-                                <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             <tr>
                                 <td>Blk 108 Yishun Ring Rd    <br>(Void Deck)<br> <span class="text-danger"><i>Supervised Self-Administered ART only</i></span></td>
@@ -112,22 +112,17 @@
                             <tr>
                                 <td>Blk 17 Marsiling Lane   <br>(Void -Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br></tt></td>
                             </tr>
                             <tr>
                                 <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             <tr>
                                 <td>Blk 75A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>75A Whampoa Drive<br>Singapore 321075</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
-                            </tr>
-                            <tr>
-                                <td>Blk 17 Ghim Moh Rd    <br>(Void Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
-                                <td>17 Ghim Moh Road<br>Singapore 270017</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             
                         </tbody>

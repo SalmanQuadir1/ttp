@@ -88,32 +88,27 @@
                             <tr>
                                 <td>Canopy @ J-Link <br> (Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube / Jurong East Central)</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             <tr>
                                 <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>60A Circuit Road<br>Singapore 370060 </td>
-                                <td><b>Monday to Friday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Saturday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             <tr>
                                 <td>Blk 17 Marsiling Lane   <br>(Void -Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunady </b><br><tt>9am to 1pm <br> 2pm to 5pm </tt></td>
                             </tr>                           
                             <tr>
                                 <td>Blk 234A Bt Panjang Ring Rd    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>234A Bukit Panjang Ring Road<br>Singapore 671234</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm  </tt></td>
                             </tr>
                             <tr>
-                                <td>Blk 75A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>Blk 70A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>75A Whampoa Drive<br>Singapore 321075</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
-                            </tr>
-                            <tr>
-                                <td>Blk 17 Ghim Moh Rd    <br>(Void Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
-                                <td>17 Ghim Moh Road<br>Singapore 270017</td>
-                                <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> 9am to 1pm </tt></td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm  </tt></td>
                             </tr>
                             
                         </tbody>
@@ -145,10 +140,88 @@
                     </div>
                 </div>
 
+                <hr>
+                <div class="row mt-4 box form-group">
+                    <div class="col-sm-12">
+                        <h2 class="font-weight-bold text-center">
+                            <strong>
+                            Frequently Asked Questions 
+                            </strong>
+                            <br> 
+                        </h2> <br>                           
+                        <p class="font-weight-bold" data-aos="slide-left">
+                            <h4>
+                            Do I need to prepare prior to taking a PCR test?
+                            </h4>
+                            <p>
+                            There is no special preparation needed for the nasal swab PCR test.
+                            </p> <br> 
+                            <h4>
+                            How long does is the testing process at the test centre?
+                            </h4>
+                            <p>
+                            The Covid-19 PCR test procedure takes only about 5 minutes to complete,<br>
+                            and the entire process (including wait time and registration) should not be<br>
+                            more than 20-30 minutes. 
+                            </p> <br>
+                            <h4>
+                            How long do I have to wait to receive my PCR test result?
+                            </h4>
+                            <p>
+                            For our <strong>Standard PCR test,</strong> the test results will be <u>emailed</u> to you <strong> within 24 hours.</strong><br>
+                             For <strong> Express PCR test, </strong> you will receive your test results <strong> within 5 - 7 hours </strong><br>
+                            </p> <br>  
+                            <h4>
+                            What do I do if my Pre-Departure COVID-19 PCR swab test result is positive?
+                            </h4>
+                            <p>
+                            If your PCR swab test comes back positive, you can refer to <a href= "https://www.covid.gov.sg/"></a> as reference to<br>
+                            find out what to do. If applicable,<br>
+                            your results will also be automatically updated in your TraceTogether<br>
+                            app and/or HealthHub portal.
+                            </p> <br>  
+                            <h4>
+                            What is the required testing window for a pre-departure COVID-19 PCR swab test?
+                            </h4>
+                            <p>
+                            The required testing window varies, and it is dependent on your <br>
+                            destination country as well as departure flight Please check the testing <br>
+                            window requirements of the country that you are traveling to and whether can our testing<br>
+                            turn around time can meet the required timeline.
+                            </p> <br>  
+                            <h4>
+                            I need to travel urgently in less than 48 hours. Can I still take the Covid-19 PCR Pre-Departure Test?
+                            </h4>
+                            <p>
+                            You may opt for the express PCR test where you will get the results and<br>
+                            Notarised Digital HealthCert in 5 - 7 hours.<br>
+                            You should check the testing window requirements of your destination<br>
+                            country and ensure you have set aside adequate time to take and receive<br>
+                            the test results before your travel.
+                            </p> <br>      
+                        </p>
+                        
+                    </div>
+                </div>
+                
+                <div class="row mt-4 box form-group">
+                    <div class="col-sm-12">
+                        <h5 class="text-center">
+                            <p>
+                            <strong>
+                            For further enquiries, please email to pcr@thetestingpro.com</a>
+                            </strong>
+                            </p>
+                        </p>
+                    </div>
+                </div>
+
+               
             </div>
         </div>
 
     </div>
+    
 
 </section>
 <!-- End Body Section -->
