@@ -15,7 +15,7 @@
 
             <div class="col-lg-12 col-md-12" >
                 <div class="about-content" data-aos="fade-left" >
-                    <h2>Administered Antigen Rapid Test (ART)</h2>
+                    <h2>Administered Antigen Rapid Test (ART) </h2>
                     <p>
                         
                         <div class="table-responsive">
