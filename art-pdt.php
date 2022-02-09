@@ -114,8 +114,8 @@
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             <tr>
-                                <td>Blk 75A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
-                                <td>75A Whampoa Drive<br>Singapore 321075</td>
+                                <td>Blk 70A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>70A Whampoa Drive<br>Singapore 321075</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br></tt></td>
                             </tr>
             

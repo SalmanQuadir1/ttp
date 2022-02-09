@@ -107,7 +107,7 @@
                             </tr>
                             <tr>
                                 <td>Blk 70A Whampoa Drive    <br>(Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
-                                <td>75A Whampoa Drive<br>Singapore 321075</td>
+                                <td>70A Whampoa Drive<br>Singapore 321075</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm  </tt></td>
                             </tr>
                             
@@ -175,7 +175,7 @@
                             What do I do if my Pre-Departure COVID-19 PCR swab test result is positive?
                             </h4>
                             <p>
-                            If your PCR swab test comes back positive, you can refer to <a href= "https://www.covid.gov.sg/"></a> as reference to<br>
+                            If your PCR swab test comes back positive, you can refer to <a href="https://www.covid.gov.sg/">https://www.covid.gov.sg/</a> as reference to<br>
                             find out what to do. If applicable,<br>
                             your results will also be automatically updated in your TraceTogether<br>
                             app and/or HealthHub portal.
@@ -209,7 +209,10 @@
                         <h5 class="text-center">
                             <p>
                             <strong>
-                            For further enquiries, please email to pcr@thetestingpro.com</a>
+                            <p class="text-center" data-aos="slide-right">
+                            For further enquiries, please email to <a href="mailto:pcr@thetestingpro.com">pcr@thetestingpro.com</a>
+                        </p>
+
                             </strong>
                             </p>
                         </p>
