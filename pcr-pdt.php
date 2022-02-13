@@ -27,7 +27,7 @@
                                             <strong>(<em>Results and Notarized Digital Health Certificate within 24 hours</em>)</strong>
                                         </td>
                                         <td rowspan="6">
-                                            <img clas="img-fluid " src="assets/img/pcr-pdt.png" alt="" data-aos="slide-left" data-aos-delay="100">
+                                            <img clas="img-fluid " src="assets/img/pcr-pdt2.jpg" alt="" data-aos="slide-left" data-aos-delay="100">
                                         </td>
                                     </tr>
                                     <tr>
