@@ -125,7 +125,7 @@
                             </h4>
                             <p>
                             Monday to Sunday:<strong> 9:30 AM – 6:30 PM</strong>
-                            </p> <br> 
+                            </p>
                             
                             <p>
                             If you require off-hours test services, please contact our MTS team via email:<br>
