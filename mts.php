@@ -57,10 +57,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                            <td colspan="2">M1</td>
-                            <td colspan="2"></td>
-                            Polymerase Chain Reaction<br>
-                            (PCR) Nasal Swab</td>
+                        
                            
                             </tr>
 
@@ -84,6 +81,11 @@
             </div>
 
             <div class="col-sm-12" data-aos="slide-up">
+            <p class="text-center">
+                <small>
+                    <i>+ All charges are inclusive of GST</i>
+                </small><br>
+                    </p>
                 <p class="text-center">
                 ** Only applicable for additional tests under the same booking on the same day and location<br>
                     </p>
