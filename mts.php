@@ -15,7 +15,7 @@
      
 <section id="about" class="about privacy-policy mt-3" >
 
-   <h3 class="text-center"> <strong>Mobile Testing Services (MTS)</strong></h3>
+   <h3 class="text-center"> <strong>Mobile Testing Services (MTS) </strong></h3>
     <div class="container">
         <div class="row" >
             <div class="col-sm-12" data-aos="fade-right">
