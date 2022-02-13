@@ -69,6 +69,12 @@
                   <li><a href="book-pcrpdt.php">Booking PCR</a></li>              
                 </ul>
               </li>
+              <li class="drop-down m1" label="p-Quick Test Centers"><a href="mts.php">Mobile Test</a>
+                <ul>
+                  <li class="d-sm-none"><a href="mts.php">Mobile Test</a></li>              
+                  <li><a href="book-mts.php">Book MTS</a></li>              
+                </ul>
+              </li>
               <!-- <li><a href="mobile-supervised-self-swab.php">Mobile Supervised Self-Swab</a></li>  -->             
               <!-- <li><a href="art-esss.php">Assisted and Supervised ART Self-Swab</a></li> -->              
             </ul>
