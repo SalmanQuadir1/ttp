@@ -147,11 +147,11 @@
                             <p>
                             Pre-Payment is <u>required</u> for all mobile test services. We only accept online credit<br>
                             card payment (Visa, Master, AMEX, Union Pay). Please note that booking will only<br>
-                             be confirmed upon receipt of payment.<br>
-
+                             be confirmed upon receipt of payment.</p>
+                            <p>
                             <i>Note that our testing team <u>will not</u> collect payment onsite for any mobile testing <br>
                             services rendered.</i>
-
+                            </p>
                             <h4>
                             Additional Surcharges
                             </h4>
