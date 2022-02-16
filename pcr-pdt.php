@@ -110,6 +110,11 @@
                                 <td>70A Whampoa Drive<br>Singapore 321075</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm  </tt></td>
                             </tr>
+                            <tr>
+                                <td>Blk 17 Ghim Moh Rd  <br>(Void Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
+                                <td>17 Ghim Moh Road<br>Singapore 270017</td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
+                            </tr>
                             
                         </tbody>
                     </table>
