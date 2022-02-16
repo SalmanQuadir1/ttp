@@ -76,7 +76,7 @@
             <div class="col-sm-12" data-aos="fade-left">
                 <h4 class="text-center mt-3">Test Centres with PCR Test Service</h4>
                 <div class="table-responsive">
-                    <table class="table table-success table-hover">
+                    <table class="table table-hover table-bordered">
                         <thead>
                             <tr>
                                 <th>Test Center</th>
