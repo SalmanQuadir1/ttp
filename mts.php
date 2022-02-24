@@ -103,6 +103,15 @@
                                     Healthcert (via email)
                                 </td>
                             </tr>
+                            <tr>
+                                <th>M5</th>
+                                <th>Supervised Self-Administered<br> Antigen Rapid Test (ART)</th>
+                                <td>Supervised</td>
+                                <th>$38</th>
+                                <td>Subsequent at $25 each** <br>
+                                    
+                                </td>
+                            </tr>
                             
                         </tbody>
                     </table>
@@ -148,29 +157,48 @@
                         </h3>                           
                         
                             <h4 data-aos="fade-right"><strong>Operating Hours</strong></h4>
-                            <p>
-                                Monday to Sunday:<strong> 9:30 AM - 6:30 PM</strong>
-                            </p>                            
-                            <p>
-                                If you require off-hours test services, please contact our MTS team via email:
-                                <a href="mailto:mts@thetestingpro.com ">mts@thetestingpro.com </a>
-                            </p> 
+                                 
+                            
+                            <div class="table-responsive">
+                    <table class="table table-bordered table-custom">
+                       
+                        <tbody>
+                        <tr>                        
+                                
+                                <th rowspan="2">Monday to Sunday</th>
+                               
+                                <th>Standard Hours</th>
+                                <td>9:30 AM – 5:30 PM
+                                </td>
+                            </tr>
+                            <tr>                        
+                                
+                                <th>Off-Hours<span class="text-danger">*</span></th>
+                                <td>6:00 PM – 9:00 PM
+                                </td>
+                            </tr>
+                               
+                        </tbody>
+                
+                    </table>
+                    <p><span class="text-danger">*</span>Appointment bookings during <u>Off-Hours</u> will be subject to a surcharge of $38.00 (per test)</p>
+                </div>
+           
 
                             <h4 data-aos="fade-right"><strong>Appointment Bookings</strong></h4>
                             <p>
-                                Bookings for all mobile testing services must be made at least 24 hours in 
+                                Bookings for all mobile testing services must be made <u>at least</u> 24 hours in 
                                 advance.
                             </p>
                             <p>
-                                Bookings that are made <u>less than 24 hours</u> in advance are considered last minute bookings and are subject to a surcharge of <strong>$38.00</strong> (per test). To make such last- 
-                                minute bookings, please contact our MTS team via email: <a href="mailto:mts@thetestingpro.com ">mts@thetestingpro.com </a> 
+                                Bookings that are made <u>less than 24 hours</u> in advance will be subject to a surcharge of $38.00 (per test).  </a> 
                             </p>
 
                             <h4 data-aos="fade-right"><strong>Payment</strong></h4>
                             <p>
-                                Pre-Payment is <u>required</u> for all mobile test services. We only accept online credit
-                                card payment (Visa, Master, AMEX, Union Pay). Please note that booking will only
-                                be confirmed upon receipt of payment.
+                            Pre-Payment is <u>required</u> for all mobile testing services. An invoice with payment instructions will be sent to you 
+                            processing of your booking. We only accept online credit card payment (Visa, Master, AMEX, Union Pay).
+                            Please note that booking will only be confirmed upon receipt of payment.
                             </p>
                             <p>
                                 <i>Note that our testing team <u>will not</u> collect payment onsite for any mobile testing
