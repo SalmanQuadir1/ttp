@@ -201,7 +201,7 @@
                             Please note that booking will only be confirmed upon receipt of payment.
                             </p>
                             <p>
-                                <i>Note that our testing team <u>will not</u> collect payment onsite for any mobile testing
+                                <i>*Note that our testing team <u>will not</u> collect payment onsite for any mobile testing
                                 services rendered.</i>
                             </p>
 
