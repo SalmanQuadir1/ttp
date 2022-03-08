@@ -231,7 +231,7 @@
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             <tr>
-                                <td>Grand Mercure Roxy SG  <br>(Level 4) <br> <span class="text-danger"><i>50 East Coast Road</i></span></td>
+                                <td>Grand Mercure Roxy SG  <br>(Level 4) <br> <span class="text-danger"><i>PCR and All ART services available</i></span></td>
                                 <td>50 East Coast Road<br>Roxy Square Marine Parade Rd<br>Singapore 428769</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
