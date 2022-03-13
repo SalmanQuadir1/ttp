@@ -128,7 +128,11 @@
                                 <td>50 East Coast Road<br>Roxy Square Marine Parade Rd<br>Singapore 428769</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
-            
+                            <tr>
+                                <td>Clarke Quay Central <br>(Ground Floor Common Walkway –<br> Waterfront Entrance) <br> <span class="text-danger"><i>PCR and All ART services available</i></span></td>
+                                <td>6 Eu Tong Sen Street<br>Singapore 059817</td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
+                            </tr>
                             
                         </tbody>
                     </table>
