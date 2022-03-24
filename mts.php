@@ -52,32 +52,39 @@
                         <tbody>
                             <tr>                        
                                 <th rowspan="2">M1</th>
-                                <th rowspan="2">Polymerase Chain Reaction <br> (PCR) Nasal Swab</th>
+                                <th rowspan="2">Polymerase Chain Reaction <br> (RT-PCR) Nasal Swab</th>
                                 <td>Standard</td>
                                 <th>$138</th>
-                                <td>Subsequent at $118 each** <br>
-                                    Results in 12 - 24 hours via email
+                                <td>Subsequent at $118 each**<br>
+                                    Results and Notarised Digital<br>
+                                    Healthcert within 24 hours via<br>
+                                    email
+                                   
                                 </td>
                             </tr>
                             <tr>                        
                                 <td>Express</td>
                                 <th>$268</th>
-                                <td>Subsequent at $238 each**
-                                    Results in 5 - 7 hours via email
+                                <td>Subsequent at $238 each**<br>
+                                    Results and Notarised Digital<br>
+                                    Healthcert in 5 – 7 hours via<br>
+                                    email
                                 </td>
                             </tr>
                             <tr>                        
                                 <th rowspan="2">M2</th>
-                                <th rowspan="2">Serology</th>
-                                <td>N-Protein</td>
-                                <th rowspan="2">$98</th>
-                                <td rowspan="2">Subsequent at $68 each**
+                                <th rowspan="2">Administered Antigen Rapid<br>
+                                    Test (ART) for Pre-Departure<br>
+                                    Test (PDT)</th>
+                                <td></td>
+                                <th rowspan="2">$58</th>
+                                <td rowspan="2">Subsequent at $38 each**<br>
+                                    Inclusive of Notarised Digital<br>
+                                    Healthcert (via email)
                                 </td>
                             </tr>
-                            <tr>                        
-                                <td>Ig-M</td>
-                            </tr>
-                            <tr>                        
+                            
+                            <!-- <tr>                        
                                 <th rowspan="2">M3</th>
                                 <th rowspan="2">PCR + Serology (N-Protein)</th>
                                 <td>Standard</td>
@@ -111,7 +118,7 @@
                                 <td>Subsequent at $25 each** <br>
                                     
                                 </td>
-                            </tr>
+                            </tr> -->
                             
                         </tbody>
                     </table>
@@ -152,7 +159,7 @@
                 <div class="row mt-4 box form-group">
                     <div class="col-sm-12">
                         <h3 class=" text-center form-group" data-aos="fade-left">                        
-                            <u><strong>IMPORTANT NOTES, TERMS & CONDITIONS</strong></u>                            
+                            <u><strong>IMPORTANT INFORMATION, TERMS & CONDITIONS</strong></u>                            
                             <br> 
                         </h3>                           
                         
@@ -173,7 +180,7 @@
                             </tr>
                             <tr>                        
                                 
-                                <th>Off-Hours<span class="text-danger">*</span></th>
+                                <th>After-Hours<span class="text-danger">*</span></th>
                                 <td>6:00 PM – 9:00 PM
                                 </td>
                             </tr>
@@ -181,31 +188,32 @@
                         </tbody>
                 
                     </table>
-                    <p><span class="text-danger">*</span>Appointment bookings during <u>Off-Hours</u> will be subject to a surcharge of $38.00 (per test)</p>
+                    <p><span class="text-danger">*</span>Appointment bookings during <u>After-Hours</u> will be subject to a surcharge of $38.00 (per test)</p>
                 </div>
            
 
                             <h4 data-aos="fade-right"><strong>Appointment Bookings</strong></h4>
                             <p>
-                                Bookings for all mobile testing services must be made <u>at least</u> 24 hours in 
+                                Bookings for all mobile testing services must be submitted and paid <u>at least</u> 24 hours in 
                                 advance.
                             </p>
+                            <h4 data-aos="fade-right"><strong>Last Minute Bookings</strong></h4>
                             <p>
-                                Bookings that are made <u>less than 24 hours</u> in advance will be subject to a surcharge of $38.00 (per test).  </a> 
+                                Bookings that are made <u>less than 24 hours</u> in advance are considered LAST MINUTE BOOKING and will be subject to a surcharge of $38.00 (per test).  </a> 
                             </p>
 
                             <h4 data-aos="fade-right"><strong>Payment</strong></h4>
                             <p>
-                            Pre-Payment is <u>required</u> for all mobile testing services. An invoice with payment instructions will be sent to you 
+                            Pre-Payment is <u>required</u> for all mobile testing services. An invoice with payment instructions will be sent to you upon
                             processing of your booking. We only accept online credit card payment (Visa, Master, AMEX, Union Pay).
-                            Please note that booking will only be confirmed upon receipt of payment.
+                            <b>Please note that booking will only be confirmed upon receipt of payment.</b>
                             </p>
                             <p>
                                 <i>*Note that our testing team <u>will not</u> collect payment onsite for any mobile testing
                                 services rendered.</i>
                             </p>
 
-                            <h4 data-aos="fade-right"><strong>Additional Surcharges</strong></h4>
+                            <h4 data-aos="fade-right"><strong>Other Surcharges</strong></h4>
                            
                             <div class="table-responsive" data-aos="fade-left">
                                 <table class="table table-hover table-bordered">
@@ -215,7 +223,7 @@
                                             <td> <strong>$38.00</strong> per booking</td>
                                         </tr>
                                         <tr>
-                                            <td>Long Haul Locations<br> 
+                                            <td>Long Distance Locations<br> 
                                                 <small><i>(Sentosa, Jurong Island, Changi Airport, Changi Village, Tuas Area)</i></small>
                                             </td>
                                             <td> <strong>$38.00</strong> per booking</td>
