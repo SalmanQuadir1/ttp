@@ -178,7 +178,7 @@
             </a>
             <a href="mts.php" class="linkButton btn btn-info ml-3 mb-3" data-aos="slide-up">
               <strong>Mobile Testing</strong> <br>
-              Click for Booking or <br>
+              Click for Bookings or <br>
               More Information
             </a>
           </div>
