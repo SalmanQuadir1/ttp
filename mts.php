@@ -126,9 +126,9 @@
             </div>
 
             <div class="col-sm-12" data-aos="slide-up">
-            <p class="text-center">
+            <p class="">
                 <small>
-                    <i>+ All charges are inclusive of GST</i>
+                    <i>*All charges are inclusive of GST</i>
                 </small><br>
             </p>
             <p>
