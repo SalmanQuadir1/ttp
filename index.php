@@ -155,12 +155,12 @@
                 <div class="col-sm-12" data-aos="slide-up">
             <p class="">
                 <small>
-                    <i>+ All fees are inclusive of GST</i>
+                    <i>*All fees are inclusive of GST</i>
                 </small><br>
             </p>
               </div>
             </div>
-            </div
+            
 
            
       <div class="row">
