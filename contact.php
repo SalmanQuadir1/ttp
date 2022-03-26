@@ -60,9 +60,7 @@
 <!-- End Body Section -->
 
 <!-- Contact Section -->
-<?php
-  require_once('contact-form.php');
-?>
+
     <!-- <iframe class="contact-form"  id="contact-form"
         allowTransparency="true" 
         frameborder="0" 

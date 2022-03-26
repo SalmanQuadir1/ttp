@@ -47,7 +47,7 @@
            and provide no frills services which will help relieve time and efforts.
           </p>
           <p> 
-            For more information or any queries, please email to <a href="mailto:info@thetestingpro.com">: info@thetestingpro.com</a>	         
+            For more information or any queries, please email to <a href="mailto:concierge@thetestingpro.com">: concierge@thetestingpro.com</a>	         
           </p>
           <!-- <div>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -370,7 +370,7 @@
             </p> -->
           </div>
           <div class="col-sm-12 text-center">
-            For more information or any queries, please email to: <a href="mailto:info@thetestingpro.com">info@thetestingpro.com </a>
+            For more information or any queries, please email to: <a href="mailto:concierge@thetestingpro.com">concierge@thetestingpro.com </a>
           </div>
         </div>
 
@@ -506,9 +506,7 @@
     
 
    <!-- Contact Section -->
-	 <?php
-    require_once('contact-form.php');
-  ?>
+	 
     
     <!-- End contact Section -->
 
