@@ -79,36 +79,36 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                            <!-- <tr>
                                 <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>All ART services available</i></span></td>
                                 <td>1 Wholesale Centre <br>Singapore 110001</td>
                                 <td><b>Monday to Wednesday only </b><br><tt>8am to 12pm</tt></td>
-                            </tr>
-                            <tr>
+                            </tr> -->
+                            <!-- <tr>
                                 <td>Jurong Fishery Port<br> (Canteen)<br> <span class="text-danger"><i>Not open to public</i></span> </td>
                                 <td>35 Fishery Port Road<br>Singapore 619742</td>
                                 <td><b>Tuesday and Friday only </b><br><tt>8:30am to 11:30am</tt></td>
-                            </tr>
+                            </tr> -->
                             <tr>
                                 <td>Canopy @ J-Link <br> (Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube / Jurong East Central)</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </td>
                             </tr>
-                            <tr>
+                            <!-- <tr>
                                 <td>Blk 535 Choa Chu Kang St 51 <br>(Void Deck)<br> <span class="text-danger"><i>Supervised Self-Administered ART only</i></span></td>
                                 <td>535 Choa Chu Kang Street 51<br>Singapore 680535 <br> (Limbang)</td>
                                 <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> CLOSED </tt></td>
-                            </tr>
+                            </tr> -->
                             <tr>
                                 <td>Blk 60A Circuit Road   <br>(Event Hall)<br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>60A Circuit Road<br>Singapore 370060 </td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
-                            <tr>
+                            <!-- <tr>
                                 <td>Blk 108 Yishun Ring Rd    <br>(Void Deck)<br> <span class="text-danger"><i>Supervised Self-Administered ART only</i></span></td>
                                 <td>108 Yishun Ring Road<br>Singapore 760108 <br> (Chong Pang City)</td>
                                 <td><b>Monday to Saturday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> <b>Sunday</b> <br> CLOSED </tt></td>
-                            </tr>
+                            </tr> -->
                             <tr>
                                 <td>Blk 17 Marsiling Lane   <br>(Void -Deck) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>17 Marsiling Lane<br>Singapore 730017 <br> (Marsiling Market)</td>
@@ -137,6 +137,12 @@
                             <tr>
                                 <td>Clarke Quay Central <br>(Ground Floor Common Walkway –<br> Waterfront Entrance) <br> <span class="text-danger"><i>PCR and All ART services available</i></span></td>
                                 <td>6 Eu Tong Sen Street<br>Clarke Quay Central<br>Singapore 059817</td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
+                            </tr>
+                            <tr>
+                                <td>Ibis Singapore on Bencoolen<br>(Main Lobby Driveway)<br>
+                                <span class="text-danger"><i>PCR and All ART services available</i></span></td>
+                                <td>170 Bencoolen Street<br> Singapore 189657</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                         </tbody>

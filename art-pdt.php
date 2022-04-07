@@ -88,11 +88,11 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                            <!-- <tr>
                                 <td>Pasir Panjang Wholesale Centre <br> (Auction Hall) <br> <span class="text-danger"><i>All ART services available</i></span></td>
                                 <td>1 Wholesale Centre <br>Singapore 110001</td>
                                 <td><b>Monday to Wednesday only </b><br><tt>8am to 12pm</tt></td>
-                            </tr>
+                            </tr> -->
                             <tr>
                                 <td>Canopy @ J-Link <br> (Event Hall) <br> <span class="text-danger"><i>PCR and all ART services available</i></span></td>
                                 <td>134 Jurong Gate Way Road<br>Singapore 600134 <br> (Behind JCube / Jurong East Central)</td>
@@ -130,7 +130,13 @@
                             </tr>
                             <tr>
                                 <td>Clarke Quay Central <br>(Ground Floor Common Walkway –<br> Waterfront Entrance) <br> <span class="text-danger"><i>PCR and All ART services available</i></span></td>
-                                <td>6 Eu Tong Sen Street<br>Singapore 059817</td>
+                                <td>6 Eu Tong Sen Street<br>Clarke Quay Central<br>Singapore 059817</td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
+                            </tr>
+                            <tr>
+                                <td>Ibis Singapore on Bencoolen<br>(Main Lobby Driveway)<br>
+                                <span class="text-danger"><i>PCR and All ART services available</i></span></td>
+                                <td>170 Bencoolen Street<br> Singapore 189657</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
                             

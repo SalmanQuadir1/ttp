@@ -125,6 +125,12 @@
                                 <td>6 Eu Tong Sen Street<br>Clarke Quay Central<br>Singapore 059817</td>
                                 <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
                             </tr>
+                            <tr>
+                                <td>Ibis Singapore on Bencoolen<br>(Main Lobby Driveway)<br>
+                                <span class="text-danger"><i>PCR and All ART services available</i></span></td>
+                                <td>170 Bencoolen Street<br> Singapore 189657</td>
+                                <td><b>Monday to Sunday </b><br><tt>9am to 1pm <br> 2pm to 5pm <br> </tt></td>
+                            </tr>
                             
                         </tbody>
                     </table>
