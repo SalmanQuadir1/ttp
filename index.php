@@ -76,7 +76,7 @@
           <div class="col-lg-7 col-md-8" >
             <div class="about-content" data-aos="fade-left" data-aos-delay="100">
             <h3>Our Services</h3>    
-            <p>TheTestingPro (<em>in partnership with Saudara Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows:</p>        
+            <p>TheTestingPro (<em>in partnership with SM Haneefa Clinic</em>) is licensed and approved by the Ministry of Health Singapore to provide Off-Site Covid-19 Testing Services as follows:</p>        
               
               <ul class="service-list">
                 <li class="li-first"><i class="fa fa-angle-double-right"></i>
@@ -314,7 +314,7 @@
                             </tr>
                         </tbody>
                     </table>
-                    <small><em>Above listing correct as at 24 Jan 2022</em></small>
+                    <small><em>Above listing correct as at 22 Apr 2022</em></small>
                 </div>
                 <div class="row mt-2">
                   <div class="col-sm-12">
