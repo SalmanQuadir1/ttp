@@ -52,7 +52,7 @@
                                         <td>Results via SMS (and updated on HealthHub / TraceTogether App)<br>
                                              Notarized Digital Health Certificate (only where applicable)</td>                                        
                                     </tr>
-                                    <tr>
+                                    <tr>     
                                         <th class="text-center">Indemnity</th>
                                         <td colspan="2">TheTestingPro is only responsible for <u>supervising </u>the Self-Administered Antigen Rapid Test over video calling, 
                                             and issuing the Notarized Digital Health Certificate of test results, where applicable. It is the client’s responsibility 
