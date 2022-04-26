@@ -61,7 +61,7 @@
                                     </tr>
                                 </table>
                             </div>
-                        </div>
+                        </div>  
                     </p>
                 </div>
             </div>
